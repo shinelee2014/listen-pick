@@ -1,0 +1,1352 @@
+{
+  "grade": 3,
+  "gradeName": "三年级",
+  "gradeEmoji": "🌻",
+  "imageCount": 3,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (问候、动物与美味食物)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "Greetings 日常问候",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Hello, I am Mike.",
+              "sentenceCn": "你好，我是迈克。",
+              "correctImage": "hello",
+              "images": [
+                "hello",
+                "goodbye",
+                "good morning"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Goodbye, see you tomorrow.",
+              "sentenceCn": "再见，明天见。",
+              "correctImage": "goodbye",
+              "images": [
+                "goodbye",
+                "hello",
+                "good morning"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Good morning, class.",
+              "sentenceCn": "早上好，同学们。",
+              "correctImage": "good morning",
+              "images": [
+                "good morning",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Thank you for the help.",
+              "sentenceCn": "谢谢你的帮助。",
+              "correctImage": "thank you",
+              "images": [
+                "thank you",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Come in, please.",
+              "sentenceCn": "请进。",
+              "correctImage": "please",
+              "images": [
+                "please",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Animals 4 野生动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The giant panda eats bamboo.",
+              "sentenceCn": "大熊猫吃竹子。",
+              "correctImage": "panda",
+              "images": [
+                "panda",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The zebra has black and white stripes.",
+              "sentenceCn": "斑马有黑白相间的条纹。",
+              "correctImage": "zebra",
+              "images": [
+                "zebra",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The giraffe is very tall.",
+              "sentenceCn": "长颈鹿非常高。",
+              "correctImage": "giraffe",
+              "images": [
+                "giraffe",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "A kangaroo has a pocket.",
+              "sentenceCn": "袋鼠有一个口袋。",
+              "correctImage": "kangaroo",
+              "images": [
+                "kangaroo",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The penguin lives in ice.",
+              "sentenceCn": "企鹅生活在冰天雪地中。",
+              "correctImage": "penguin",
+              "images": [
+                "penguin",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Food 3 美味食物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I like cheese pizza.",
+              "sentenceCn": "我喜欢芝士披萨。",
+              "correctImage": "pizza",
+              "images": [
+                "pizza",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "A burger and juice, please.",
+              "sentenceCn": "请给我一个汉堡和果汁。",
+              "correctImage": "burger",
+              "images": [
+                "burger",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We have fried chicken.",
+              "sentenceCn": "我们吃炸鸡。",
+              "correctImage": "chicken",
+              "images": [
+                "chicken",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Do you like potato chips?",
+              "sentenceCn": "你喜欢薯片吗？",
+              "correctImage": "chips",
+              "images": [
+                "chips",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Ice cream is sweet.",
+              "sentenceCn": "冰淇淋是甜的。",
+              "correctImage": "ice cream",
+              "images": [
+                "ice cream",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "Classroom 2 教室设施",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Clean the window.",
+              "sentenceCn": "把窗户擦干净。",
+              "correctImage": "window",
+              "images": [
+                "window",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Lock the door.",
+              "sentenceCn": "锁门。",
+              "correctImage": "door",
+              "images": [
+                "door",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Turn off the light.",
+              "sentenceCn": "关灯。",
+              "correctImage": "light",
+              "images": [
+                "light",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The bed is comfortable.",
+              "sentenceCn": "床很舒适。",
+              "correctImage": "bed",
+              "images": [
+                "bed",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Sweep the floor.",
+              "sentenceCn": "扫地。",
+              "correctImage": "floor",
+              "images": [
+                "floor",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The panda runs to the window.",
+              "sentenceCn": "熊猫跑到窗边。",
+              "correctImage": "panda",
+              "images": [
+                "panda",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Goodbye to the giraffe.",
+              "sentenceCn": "和长颈鹿说再见。",
+              "correctImage": "goodbye",
+              "images": [
+                "goodbye",
+                "hello",
+                "good morning"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The student eats pizza.",
+              "sentenceCn": "学生在吃披萨。",
+              "correctImage": "pizza",
+              "images": [
+                "pizza",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Look at the light on the desk.",
+              "sentenceCn": "看桌上的那盏灯。",
+              "correctImage": "light",
+              "images": [
+                "light",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The penguin has an ice cream.",
+              "sentenceCn": "企鹅有一个冰淇淋。",
+              "correctImage": "ice cream",
+              "images": [
+                "ice cream",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (玩具、日常用品与色彩)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Toys 2 趣味玩具",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "My robot can walk.",
+              "sentenceCn": "我的机器人会走路。",
+              "correctImage": "robot",
+              "images": [
+                "robot",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I hug my teddy bear.",
+              "sentenceCn": "我抱着我的泰迪熊。",
+              "correctImage": "teddy bear",
+              "images": [
+                "teddy bear",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A red balloon flies.",
+              "sentenceCn": "一个红气球飞走了。",
+              "correctImage": "balloon",
+              "images": [
+                "balloon",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Fly a kite in the park.",
+              "sentenceCn": "在公园放风筝。",
+              "correctImage": "kite",
+              "images": [
+                "kite",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Build a tall house.",
+              "sentenceCn": "建造一座高房子。",
+              "correctImage": "one",
+              "images": [
+                "one",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Daily items 日常用品",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I lost my key.",
+              "sentenceCn": "我把钥匙丢了。",
+              "correctImage": "key",
+              "images": [
+                "key",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is rainy, bring your umbrella.",
+              "sentenceCn": "下雨了，带上你的伞。",
+              "correctImage": "umbrella",
+              "images": [
+                "umbrella",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A cup of milk, please.",
+              "sentenceCn": "请给我一杯牛奶。",
+              "correctImage": "cup",
+              "images": [
+                "cup",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I eat rice with a spoon.",
+              "sentenceCn": "我用勺子吃米饭。",
+              "correctImage": "spoon",
+              "images": [
+                "spoon",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Eat cake with a fork.",
+              "sentenceCn": "用叉子吃蛋糕。",
+              "correctImage": "fork",
+              "images": [
+                "fork",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Body actions 动作指令",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Clap your hands happily.",
+              "sentenceCn": "快乐地拍拍你的手。",
+              "correctImage": "happy",
+              "images": [
+                "happy",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Don't be sad, smile.",
+              "sentenceCn": "别难过，笑一笑。",
+              "correctImage": "sad",
+              "images": [
+                "sad",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The man is very angry.",
+              "sentenceCn": "那个男人非常生气。",
+              "correctImage": "angry",
+              "images": [
+                "angry",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I am tired, let me rest.",
+              "sentenceCn": "我很累，让我休息下。",
+              "correctImage": "tired",
+              "images": [
+                "tired",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "She is scared of dark.",
+              "sentenceCn": "她害怕黑暗。",
+              "correctImage": "scared",
+              "images": [
+                "scared",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Colors 2 更多色彩",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I like this purple hat.",
+              "sentenceCn": "我喜欢这顶紫色的帽子。",
+              "correctImage": "purple",
+              "images": [
+                "purple",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The pink flower is pretty.",
+              "sentenceCn": "这朵粉红色的花很漂亮。",
+              "correctImage": "pink",
+              "images": [
+                "pink",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A brown bear is sleeping.",
+              "sentenceCn": "一只棕熊在睡觉。",
+              "correctImage": "brown",
+              "images": [
+                "brown",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The blackboard is black.",
+              "sentenceCn": "黑板是黑色的。",
+              "correctImage": "black",
+              "images": [
+                "black",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The paper is clean and white.",
+              "sentenceCn": "这纸干净又白。",
+              "correctImage": "white",
+              "images": [
+                "white",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The robot has a key.",
+              "sentenceCn": "机器人有一把钥匙。",
+              "correctImage": "robot",
+              "images": [
+                "robot",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "A purple balloon in the sky.",
+              "sentenceCn": "天空中有一个紫色的气球。",
+              "correctImage": "purple",
+              "images": [
+                "purple",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The teddy bear is brown.",
+              "sentenceCn": "泰迪熊是棕色的。",
+              "correctImage": "brown",
+              "images": [
+                "brown",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The girl has a white umbrella.",
+              "sentenceCn": "这个女孩有一把白色的伞。",
+              "correctImage": "white",
+              "images": [
+                "white",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The robot plays with a kite.",
+              "sentenceCn": "机器人玩风筝。",
+              "correctImage": "robot",
+              "images": [
+                "robot",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (交通、科目与课堂行为)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Transport 交通运输",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "A helicopter is flying.",
+              "sentenceCn": "一架直升机在飞。",
+              "correctImage": "helicopter",
+              "images": [
+                "helicopter",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He rides a motorcycle.",
+              "sentenceCn": "他骑摩托车。",
+              "correctImage": "motorcycle",
+              "images": [
+                "motorcycle",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The tractor is on the farm.",
+              "sentenceCn": "拖拉机在农场上。",
+              "correctImage": "tractor",
+              "images": [
+                "tractor",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "We load bags in the van.",
+              "sentenceCn": "我们把包载入面包车。",
+              "correctImage": "van",
+              "images": [
+                "van",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The train runs on the track.",
+              "sentenceCn": "火车在轨道上行驶。",
+              "correctImage": "train",
+              "images": [
+                "train",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "School subjects 课程科目",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We study English today.",
+              "sentenceCn": "我们今天学习英语。",
+              "correctImage": "English",
+              "images": [
+                "English",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I like Chinese class.",
+              "sentenceCn": "我喜欢语文/中文课。",
+              "correctImage": "Chinese",
+              "images": [
+                "Chinese",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Solve a maths problem.",
+              "sentenceCn": "解答数学题。",
+              "correctImage": "maths",
+              "images": [
+                "maths",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Draw in the art class.",
+              "sentenceCn": "在美术课上画画。",
+              "correctImage": "art",
+              "images": [
+                "art",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Sing in the music class.",
+              "sentenceCn": "在音乐课上唱歌。",
+              "correctImage": "music",
+              "images": [
+                "music",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Activities 课堂活动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Please read the text.",
+              "sentenceCn": "请朗读课文。",
+              "correctImage": "read",
+              "images": [
+                "read",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Write your name down.",
+              "sentenceCn": "写下你的名字。",
+              "correctImage": "write",
+              "images": [
+                "write",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Draw a happy monkey.",
+              "sentenceCn": "画一只快乐的猴子。",
+              "correctImage": "draw",
+              "images": [
+                "draw",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I love to sing songs.",
+              "sentenceCn": "我喜欢唱英语歌。",
+              "correctImage": "sing",
+              "images": [
+                "sing",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Listen to the music.",
+              "sentenceCn": "听音乐。",
+              "correctImage": "listen",
+              "images": [
+                "listen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "Fruits 3 水果盛宴",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I want a sweet mango.",
+              "sentenceCn": "我想要个甜芒果。",
+              "correctImage": "mango",
+              "images": [
+                "mango",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The blueberry is small and round.",
+              "sentenceCn": "蓝莓又小又圆。",
+              "correctImage": "blueberry",
+              "images": [
+                "blueberry",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Drink fresh coconut water.",
+              "sentenceCn": "喝新鲜椰子水。",
+              "correctImage": "coconut",
+              "images": [
+                "coconut",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The kiwi is green inside.",
+              "sentenceCn": "猕猴桃里面是绿色的。",
+              "correctImage": "kiwi",
+              "images": [
+                "kiwi",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "A slice of sweet papaya.",
+              "sentenceCn": "一片甜木瓜。",
+              "correctImage": "papaya",
+              "images": [
+                "papaya",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Read an English book.",
+              "sentenceCn": "读一本英语书。",
+              "correctImage": "English",
+              "images": [
+                "English",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Ride the motorcycle to school.",
+              "sentenceCn": "骑摩托车去学校。",
+              "correctImage": "motorcycle",
+              "images": [
+                "motorcycle",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The driver is in the van.",
+              "sentenceCn": "司机在面包车里。",
+              "correctImage": "van",
+              "images": [
+                "van",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Draw a mango on the paper.",
+              "sentenceCn": "在纸上画个芒果。",
+              "correctImage": "draw",
+              "images": [
+                "draw",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Listen to the music teacher.",
+              "sentenceCn": "听音乐老师讲课。",
+              "correctImage": "listen",
+              "images": [
+                "listen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (住宅房间、天气感受与数字)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "House rooms 住宅区域",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We talk in the living room.",
+              "sentenceCn": "我们在客厅聊天。",
+              "correctImage": "living room",
+              "images": [
+                "living room",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Sleep in your bedroom.",
+              "sentenceCn": "在卧室里睡觉。",
+              "correctImage": "bedroom",
+              "images": [
+                "bedroom",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Mom cooks in the kitchen.",
+              "sentenceCn": "妈妈在厨房做饭。",
+              "correctImage": "kitchen",
+              "images": [
+                "kitchen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Wash hands in the bathroom.",
+              "sentenceCn": "在浴室洗手。",
+              "correctImage": "bathroom",
+              "images": [
+                "bathroom",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Flowers are in the garden.",
+              "sentenceCn": "花园里有花。",
+              "correctImage": "garden",
+              "images": [
+                "garden",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "Weather feelings 天气感受",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "It is hot in summer.",
+              "sentenceCn": "夏天很热。",
+              "correctImage": "hot",
+              "images": [
+                "hot",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is cold in winter.",
+              "sentenceCn": "冬天很冷。",
+              "correctImage": "cold",
+              "images": [
+                "cold",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The spring is warm.",
+              "sentenceCn": "春天很暖和。",
+              "correctImage": "warm",
+              "images": [
+                "warm",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The autumn is cool.",
+              "sentenceCn": "秋天很凉爽。",
+              "correctImage": "cool",
+              "images": [
+                "cool",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The grass is wet after rain.",
+              "sentenceCn": "雨后草是湿的。",
+              "correctImage": "wet",
+              "images": [
+                "wet",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Numbers 11-15 进阶数字",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "There are eleven bananas.",
+              "sentenceCn": "有十一根香蕉。",
+              "correctImage": "eleven",
+              "images": [
+                "eleven",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is twelve o'clock, eat lunch.",
+              "sentenceCn": "十二点钟了，吃午饭。",
+              "correctImage": "twelve",
+              "images": [
+                "twelve",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I have thirteen apples.",
+              "sentenceCn": "我有十三颗苹果。",
+              "correctImage": "thirteen",
+              "images": [
+                "thirteen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Fourteen birds sing.",
+              "sentenceCn": "十四只鸟在唱歌。",
+              "correctImage": "fourteen",
+              "images": [
+                "fourteen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I count fifteen books.",
+              "sentenceCn": "我数了十五本书。",
+              "correctImage": "fifteen",
+              "images": [
+                "fifteen",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Animals 5 森林与水生",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The clever fox is orange.",
+              "sentenceCn": "聪明的狐狸是橙色的。",
+              "correctImage": "fox",
+              "images": [
+                "fox",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The grey wolf runs.",
+              "sentenceCn": "灰狼在奔跑。",
+              "correctImage": "wolf",
+              "images": [
+                "wolf",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A frog jumps in the water.",
+              "sentenceCn": "一只青蛙跳入水中。",
+              "correctImage": "frog",
+              "images": [
+                "frog",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The slow turtle walks.",
+              "sentenceCn": "慢吞吞的乌龟在爬行。",
+              "correctImage": "turtle",
+              "images": [
+                "turtle",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I see a green snake.",
+              "sentenceCn": "我看到一条绿蛇。",
+              "correctImage": "snake",
+              "images": [
+                "snake",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "A fox is in the bedroom.",
+              "sentenceCn": "一只狐狸在卧室里。",
+              "correctImage": "fox",
+              "images": [
+                "fox",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The kitchen is warm and hot.",
+              "sentenceCn": "厨房里暖和又热。",
+              "correctImage": "hot",
+              "images": [
+                "hot",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We see twelve frogs in the garden.",
+              "sentenceCn": "我们在花园里看到十二只青蛙。",
+              "correctImage": "twelve",
+              "images": [
+                "twelve",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The turtle sits in the bathroom.",
+              "sentenceCn": "乌龟坐在浴室里。",
+              "correctImage": "turtle",
+              "images": [
+                "turtle",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "It is cool, sit in the garden.",
+              "sentenceCn": "天很凉快，坐在花园里。",
+              "correctImage": "garden",
+              "images": [
+                "garden",
+                "hello",
+                "goodbye"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1252 @@
+{
+  "grade": 1,
+  "gradeName": "一年级",
+  "gradeEmoji": "🍓",
+  "imageCount": 2,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (日常人物与动物)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "People 人物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "She is a girl.",
+              "sentenceCn": "她是一个女孩。",
+              "correctImage": "girl",
+              "images": [
+                "girl",
+                "boy"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He is a boy.",
+              "sentenceCn": "他是一个男孩。",
+              "correctImage": "boy",
+              "images": [
+                "boy",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Look at the baby.",
+              "sentenceCn": "看那个宝宝。",
+              "correctImage": "baby",
+              "images": [
+                "baby",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "She is my mom.",
+              "sentenceCn": "她是我的妈妈。",
+              "correctImage": "mom",
+              "images": [
+                "mom",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "He is my dad.",
+              "sentenceCn": "他是我的爸爸。",
+              "correctImage": "dad",
+              "images": [
+                "dad",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Animals 动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I can see a cat.",
+              "sentenceCn": "我能看到一只猫。",
+              "correctImage": "cat",
+              "images": [
+                "cat",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The dog is running.",
+              "sentenceCn": "那只狗在跑。",
+              "correctImage": "dog",
+              "images": [
+                "dog",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A bird is singing.",
+              "sentenceCn": "一只鸟在唱歌。",
+              "correctImage": "bird",
+              "images": [
+                "bird",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The fish is swimming.",
+              "sentenceCn": "那条鱼在游泳。",
+              "correctImage": "fish",
+              "images": [
+                "fish",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I have a rabbit.",
+              "sentenceCn": "我有一只兔子。",
+              "correctImage": "rabbit",
+              "images": [
+                "rabbit",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Food 食物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I like apples.",
+              "sentenceCn": "我喜欢苹果。",
+              "correctImage": "apple",
+              "images": [
+                "apple",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "This banana is yellow.",
+              "sentenceCn": "这根香蕉是黄色的。",
+              "correctImage": "banana",
+              "images": [
+                "banana",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I drink milk every day.",
+              "sentenceCn": "我每天喝牛奶。",
+              "correctImage": "milk",
+              "images": [
+                "milk",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Give me a cake, please.",
+              "sentenceCn": "请给我一块蛋糕。",
+              "correctImage": "cake",
+              "images": [
+                "cake",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I eat rice for dinner.",
+              "sentenceCn": "我晚餐吃米饭。",
+              "correctImage": "rice",
+              "images": [
+                "rice",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "School 学校",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Open your book.",
+              "sentenceCn": "打开你的书。",
+              "correctImage": "book",
+              "images": [
+                "book",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I need a pen.",
+              "sentenceCn": "我需要一支笔。",
+              "correctImage": "pen",
+              "images": [
+                "pen",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "This is my school bag.",
+              "sentenceCn": "这是我的书包。",
+              "correctImage": "bag",
+              "images": [
+                "bag",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Put it on the desk.",
+              "sentenceCn": "把它放在书桌上。",
+              "correctImage": "desk",
+              "images": [
+                "desk",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I go to school.",
+              "sentenceCn": "我去上学。",
+              "correctImage": "school",
+              "images": [
+                "school",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The girl has a cat.",
+              "sentenceCn": "那个女孩有一只猫。",
+              "correctImage": "girl",
+              "images": [
+                "girl",
+                "boy"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The boy has a dog.",
+              "sentenceCn": "那个男孩有一只狗。",
+              "correctImage": "boy",
+              "images": [
+                "boy",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Mom eats an apple.",
+              "sentenceCn": "妈妈在吃苹果。",
+              "correctImage": "apple",
+              "images": [
+                "apple",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The rabbit likes banana.",
+              "sentenceCn": "兔子喜欢香蕉。",
+              "correctImage": "banana",
+              "images": [
+                "banana",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Dad reads a book.",
+              "sentenceCn": "爸爸在看书。",
+              "correctImage": "book",
+              "images": [
+                "book",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (颜色, 数字与身体)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Colors 颜色",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "It is a red ball.",
+              "sentenceCn": "它是一个红色的球。",
+              "correctImage": "red",
+              "images": [
+                "red",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The blue bird sings.",
+              "sentenceCn": "那只蓝色的鸟在唱歌。",
+              "correctImage": "blue",
+              "images": [
+                "blue",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I like the green tree.",
+              "sentenceCn": "我喜欢绿色的树。",
+              "correctImage": "green",
+              "images": [
+                "green",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The banana is yellow.",
+              "sentenceCn": "香蕉是黄色的。",
+              "correctImage": "yellow",
+              "images": [
+                "yellow",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Show me the orange.",
+              "sentenceCn": "给我展示那个橙色。",
+              "correctImage": "orange color",
+              "images": [
+                "orange color",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Numbers 数字",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I have one apple.",
+              "sentenceCn": "我有一个苹果。",
+              "correctImage": "one",
+              "images": [
+                "one",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I can see two cats.",
+              "sentenceCn": "我能看到两只猫。",
+              "correctImage": "two",
+              "images": [
+                "two",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "She has three books.",
+              "sentenceCn": "她有三本书。",
+              "correctImage": "three",
+              "images": [
+                "three",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Four birds are in the tree.",
+              "sentenceCn": "树上有四只鸟。",
+              "correctImage": "four",
+              "images": [
+                "four",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Give me five pens.",
+              "sentenceCn": "给我五支笔。",
+              "correctImage": "five",
+              "images": [
+                "five",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Body 身体部位",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Touch your eye.",
+              "sentenceCn": "摸摸你的眼睛。",
+              "correctImage": "eye",
+              "images": [
+                "eye",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Listen with your ear.",
+              "sentenceCn": "用你的耳朵听。",
+              "correctImage": "ear",
+              "images": [
+                "ear",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I smell with my nose.",
+              "sentenceCn": "我用鼻子闻。",
+              "correctImage": "nose",
+              "images": [
+                "nose",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Open your mouth.",
+              "sentenceCn": "张开你的嘴巴。",
+              "correctImage": "mouth",
+              "images": [
+                "mouth",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Wave your hand.",
+              "sentenceCn": "挥挥你的手。",
+              "correctImage": "hand",
+              "images": [
+                "hand",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Toys 玩具",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Play with the ball.",
+              "sentenceCn": "玩这个球。",
+              "correctImage": "ball",
+              "images": [
+                "ball",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "She loves the cute doll.",
+              "sentenceCn": "她喜欢这个可爱的洋娃娃。",
+              "correctImage": "doll",
+              "images": [
+                "doll",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The red car is fast.",
+              "sentenceCn": "这辆红色的汽车很快。",
+              "correctImage": "car",
+              "images": [
+                "car",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Look at the toy train.",
+              "sentenceCn": "看这列玩具火车。",
+              "correctImage": "train",
+              "images": [
+                "train",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The plane is flying high.",
+              "sentenceCn": "飞机飞得很高。",
+              "correctImage": "plane toy",
+              "images": [
+                "plane toy",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Colors & Toys Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "A blue ball is on the desk.",
+              "sentenceCn": "桌上有一个蓝色的球。",
+              "correctImage": "blue",
+              "images": [
+                "blue",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The baby has two dolls.",
+              "sentenceCn": "宝宝有两个洋娃娃。",
+              "correctImage": "two",
+              "images": [
+                "two",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Dad likes the red car.",
+              "sentenceCn": "爸爸喜欢这辆红色的车。",
+              "correctImage": "red",
+              "images": [
+                "red",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Touch your nose with your hand.",
+              "sentenceCn": "用手摸你的鼻子。",
+              "correctImage": "hand",
+              "images": [
+                "hand",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The girl has one yellow doll.",
+              "sentenceCn": "这个女孩有一个黄色的洋娃娃。",
+              "correctImage": "yellow",
+              "images": [
+                "yellow",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (家居, 服饰与动作)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Home 家居物品",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Go to bed, baby.",
+              "sentenceCn": "去睡觉吧，宝宝。",
+              "correctImage": "bed",
+              "images": [
+                "bed",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Sit on the chair.",
+              "sentenceCn": "坐在椅子上。",
+              "correctImage": "chair",
+              "images": [
+                "chair",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Clean the table.",
+              "sentenceCn": "擦桌子。",
+              "correctImage": "table",
+              "images": [
+                "table",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Close the window.",
+              "sentenceCn": "关上窗户。",
+              "correctImage": "window",
+              "images": [
+                "window",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Open the door.",
+              "sentenceCn": "开门。",
+              "correctImage": "door",
+              "images": [
+                "door",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "Clothes 服饰",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Put on your shirt.",
+              "sentenceCn": "穿上你的衬衫。",
+              "correctImage": "shirt",
+              "images": [
+                "shirt",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I like your red hat.",
+              "sentenceCn": "我喜欢你的红帽子。",
+              "correctImage": "hat",
+              "images": [
+                "hat",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "These are my shoes.",
+              "sentenceCn": "这些是我的鞋子。",
+              "correctImage": "shoes",
+              "images": [
+                "shoes",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Where are my socks?",
+              "sentenceCn": "我的袜子在哪里？",
+              "correctImage": "socks",
+              "images": [
+                "socks",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "It is cold, wear your coat.",
+              "sentenceCn": "天冷了，穿上外套。",
+              "correctImage": "coat",
+              "images": [
+                "coat",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Actions 基础动作",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Run to the school.",
+              "sentenceCn": "跑去学校。",
+              "correctImage": "run",
+              "images": [
+                "run",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The rabbit can jump.",
+              "sentenceCn": "兔子会跳。",
+              "correctImage": "jump",
+              "images": [
+                "jump",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I like to sing.",
+              "sentenceCn": "我喜欢唱歌。",
+              "correctImage": "sing",
+              "images": [
+                "sing",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Let us dance together.",
+              "sentenceCn": "让我们一起跳舞。",
+              "correctImage": "dance",
+              "images": [
+                "dance",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The dog wants to sleep.",
+              "sentenceCn": "狗想睡觉。",
+              "correctImage": "sleep",
+              "images": [
+                "sleep",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "Feelings 情绪与感受",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "She is very happy.",
+              "sentenceCn": "她很高兴。",
+              "correctImage": "happy",
+              "images": [
+                "happy",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Don't be sad.",
+              "sentenceCn": "别难过。",
+              "correctImage": "sad",
+              "images": [
+                "sad",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Dad is angry.",
+              "sentenceCn": "爸爸生气了。",
+              "correctImage": "angry",
+              "images": [
+                "angry",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I am tired and sleepy.",
+              "sentenceCn": "我很累也很困。",
+              "correctImage": "tired",
+              "images": [
+                "tired",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The baby is scared of the dark.",
+              "sentenceCn": "宝宝害怕黑暗。",
+              "correctImage": "scared",
+              "images": [
+                "scared",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Home & Actions Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Jump on the bed.",
+              "sentenceCn": "在床上跳。",
+              "correctImage": "jump",
+              "images": [
+                "jump",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The happy girl is dancing.",
+              "sentenceCn": "快乐的女孩在跳舞。",
+              "correctImage": "happy",
+              "images": [
+                "happy",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Put shoes near the door.",
+              "sentenceCn": "把鞋子放在门旁。",
+              "correctImage": "shoes",
+              "images": [
+                "shoes",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "He runs to open the window.",
+              "sentenceCn": "他跑去开窗户。",
+              "correctImage": "run",
+              "images": [
+                "run",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The tired dog sleeps on the chair.",
+              "sentenceCn": "疲倦的狗在椅子上睡觉。",
+              "correctImage": "sleep",
+              "images": [
+                "sleep",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (大自然与动物扩展)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "Nature 大自然",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The sun is hot.",
+              "sentenceCn": "太阳很热。",
+              "correctImage": "sun",
+              "images": [
+                "sun",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Look at the moon.",
+              "sentenceCn": "看月亮。",
+              "correctImage": "moon",
+              "images": [
+                "moon",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I see a little star.",
+              "sentenceCn": "我看到一颗小星星。",
+              "correctImage": "star",
+              "images": [
+                "star",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The tree is green and tall.",
+              "sentenceCn": "树又绿又高。",
+              "correctImage": "tree",
+              "images": [
+                "tree",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "This is a pretty flower.",
+              "sentenceCn": "这是一朵漂亮的花。",
+              "correctImage": "flower",
+              "images": [
+                "flower",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "Vehicles 交通工具",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I take a school bus.",
+              "sentenceCn": "我坐校车。",
+              "correctImage": "bus",
+              "images": [
+                "bus",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I ride my small bike.",
+              "sentenceCn": "我骑我的小自行车。",
+              "correctImage": "bike",
+              "images": [
+                "bike",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The ship is in the sea.",
+              "sentenceCn": "船在大海里。",
+              "correctImage": "ship",
+              "images": [
+                "ship",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The big truck is blue.",
+              "sentenceCn": "大卡车是蓝色的。",
+              "correctImage": "truck",
+              "images": [
+                "truck",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We go home by taxi.",
+              "sentenceCn": "我们坐出租车回家。",
+              "correctImage": "taxi",
+              "images": [
+                "taxi",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Fruit 更多水果",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I want an orange.",
+              "sentenceCn": "我想要个橙子。",
+              "correctImage": "orange",
+              "images": [
+                "orange",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The grape is sweet.",
+              "sentenceCn": "葡萄很甜。",
+              "correctImage": "grape",
+              "images": [
+                "grape",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "She has a yellow pear.",
+              "sentenceCn": "她有一个黄梨。",
+              "correctImage": "pear",
+              "images": [
+                "pear",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "This peach is pink.",
+              "sentenceCn": "这只桃子是粉红色的。",
+              "correctImage": "peach",
+              "images": [
+                "peach",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Eat some sweet melon.",
+              "sentenceCn": "吃一些甜瓜。",
+              "correctImage": "melon",
+              "images": [
+                "melon",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Animals 2 更多动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The lion is the king.",
+              "sentenceCn": "狮子是森林之王。",
+              "correctImage": "lion",
+              "images": [
+                "lion",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The tiger can run fast.",
+              "sentenceCn": "老虎能跑得很快。",
+              "correctImage": "tiger",
+              "images": [
+                "tiger",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The elephant is huge.",
+              "sentenceCn": "大象很庞大。",
+              "correctImage": "elephant",
+              "images": [
+                "elephant",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The monkey likes bananas.",
+              "sentenceCn": "猴子喜欢香蕉。",
+              "correctImage": "monkey",
+              "images": [
+                "monkey",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The big bear is brown.",
+              "sentenceCn": "大熊是棕色的。",
+              "correctImage": "bear",
+              "images": [
+                "bear",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "A bird is in the tall tree.",
+              "sentenceCn": "有一只鸟在高的树上。",
+              "correctImage": "bird",
+              "images": [
+                "bird",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The lion looks at the monkey.",
+              "sentenceCn": "狮子看着猴子。",
+              "correctImage": "lion",
+              "images": [
+                "lion",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Ride a bike to the school.",
+              "sentenceCn": "骑自行车去学校。",
+              "correctImage": "bike",
+              "images": [
+                "bike",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I eat grapes in the bus.",
+              "sentenceCn": "我在公交车上吃葡萄。",
+              "correctImage": "grape",
+              "images": [
+                "grape",
+                "girl"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The girl draws a yellow star.",
+              "sentenceCn": "女孩画了一颗黄色的星星。",
+              "correctImage": "star",
+              "images": [
+                "star",
+                "girl"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

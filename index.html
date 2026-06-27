@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="description" content="Listen & Pick — 苏州小学英语听力练习，听句子选图片，1-6年级">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#4A90D9">
+  <title>Listen & Pick · 听句子，选图片</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>">
+</head>
+<body>
+
+  <!-- ============================================
+       VIEW 0: PROFILE SELECT (LOGIN)
+       ============================================ -->
+  <div id="view-login" class="view active">
+    <div class="login-container">
+      <h1 class="login-title">👋 欢迎回来！</h1>
+      <p class="login-subtitle">今天是谁在学习英语呢？</p>
+      <div id="profiles-grid" class="profiles-grid">
+        <!-- JS 动态渲染 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================
+       VIEW 1: HOME PAGE
+       ============================================ -->
+  <div id="view-home" class="view">
+    <div class="home-container">
+      <div class="home-logo">LP</div>
+      <h1 class="home-title">Listen & Pick</h1>
+      <p class="home-subtitle">听句子，选图片</p>
+      <p class="home-desc">苏州小学英语听力练习 · 1-6年级</p>
+      <div class="current-profile-indicator">
+        当前学习宝贝：<span id="home-profile-name"></span>
+        <button class="switch-profile-btn" data-action="logout">切换 👥</button>
+      </div>
+      <button id="home-start-btn" class="home-start-btn">开始练习 →</button>
+    </div>
+  </div>
+
+  <!-- ============================================
+       VIEW 2: GRADE SELECT
+       ============================================ -->
+  <div id="view-grade" class="view">
+    <div class="grade-container">
+      <button class="back-btn" data-action="back-home">← 返回首页</button>
+      <div class="page-header">
+        <h2>选择年级</h2>
+        <p>每个年级有独立的英语听力练习内容</p>
+      </div>
+      <div id="grade-grid" class="grade-grid">
+        <!-- JS 动态渲染 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================
+       VIEW 3: LEVEL SELECT
+       ============================================ -->
+  <div id="view-level" class="view">
+    <div class="level-container">
+      <div class="level-header">
+        <div class="level-header-left">
+          <button class="back-btn" data-action="back-grade">← 返回</button>
+          <span id="level-grade-badge" class="grade-badge"></span>
+        </div>
+        <span class="current-level-label">选择关卡</span>
+        <div class="level-header-right">
+          <span id="level-profile-badge" class="profile-badge">👤 </span>
+          <button id="level-reset-btn" class="level-reset-btn">🧹 重置进度</button>
+        </div>
+      </div>
+
+      <!-- Level Tabs -->
+      <div id="level-tabs" class="level-tabs">
+        <!-- JS 动态渲染 -->
+      </div>
+
+      <!-- Day-Stage Map -->
+      <div class="level-map">
+        <div id="level-map" class="level-map-inner">
+          <!-- JS 动态渲染 -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================
+       VIEW 4: QUIZ
+       ============================================ -->
+  <div id="view-quiz" class="view">
+    <div class="quiz-container">
+
+      <!-- Toolbar -->
+      <div class="quiz-toolbar">
+        <button id="quiz-back-btn" class="quiz-back-btn" data-action="back-level">←</button>
+        <span id="quiz-level-badge" class="quiz-level-badge"></span>
+
+        <button id="toggle-en" class="quiz-toggle">
+          英文提示：<span class="toggle-status">关</span>
+        </button>
+        <button id="toggle-cn" class="quiz-toggle">
+          中文提示：<span class="toggle-status">关</span>
+        </button>
+
+        <select id="speed-select" class="speed-select">
+          <option value="slow">🐢 慢速</option>
+          <option value="normal" selected>🚶 正常</option>
+          <option value="fast">🏃 快速</option>
+        </select>
+
+        <div class="quiz-toolbar-right">
+          <div class="quiz-progress">
+            <span class="quiz-progress-dot"></span>
+            <span id="quiz-progress-text">1 / 5</span>
+          </div>
+          <div class="quiz-stars">
+            <span class="quiz-stars-icon">⭐</span>
+            <span id="quiz-stars-count">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quiz Content -->
+      <div class="quiz-content">
+        <h2 class="quiz-instruction">Listen to the sentence. Which picture matches?</h2>
+
+        <!-- Audio Button -->
+        <button id="audio-btn" class="audio-btn" aria-label="Play audio">
+          🔊
+        </button>
+        <div class="audio-hint">点击喇叭听句子</div>
+
+        <!-- Sentence Hints -->
+        <div class="sentence-hint">
+          <div id="sentence-en" class="sentence-en"></div>
+          <div id="sentence-cn" class="sentence-cn"></div>
+        </div>
+
+        <!-- Image Selection Grid -->
+        <div id="image-grid" class="image-grid cols-2">
+          <!-- JS 动态渲染 -->
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ============================================
+       ADD CHILD MODAL DIALOG
+       ============================================ -->
+  <div id="modal-add-child" class="modal-overlay hidden">
+    <div class="modal-card">
+      <h3>添加新学习账号</h3>
+      <p>请输入孩子的名字：</p>
+      <input type="text" id="new-child-name" placeholder="例如：小明" maxlength="8">
+      <div class="modal-btn-group">
+        <button id="modal-cancel-btn" class="modal-btn secondary">取消</button>
+        <button id="modal-confirm-btn" class="modal-btn primary">确定</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/libs/confetti.browser.min.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

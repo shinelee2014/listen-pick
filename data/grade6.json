@@ -1,0 +1,1452 @@
+{
+  "grade": 6,
+  "gradeName": "六年级",
+  "gradeEmoji": "🔮",
+  "imageCount": 4,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (心情与健康状况)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "How do you feel? 情绪状态",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I am so happy to win the game.",
+              "sentenceCn": "赢得比赛我太高兴了。",
+              "correctImage": "happy",
+              "images": [
+                "happy",
+                "angry",
+                "sad",
+                "excited"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Mom is angry when I make mistakes.",
+              "sentenceCn": "当我犯错时，妈妈会生气。",
+              "correctImage": "angry",
+              "images": [
+                "angry",
+                "happy",
+                "sad",
+                "excited"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The sad girl is crying.",
+              "sentenceCn": "那个伤心的女孩正在哭。",
+              "correctImage": "sad",
+              "images": [
+                "sad",
+                "happy",
+                "angry",
+                "excited"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The children are excited about the trip.",
+              "sentenceCn": "孩子们对这次旅行感到兴奋。",
+              "correctImage": "excited",
+              "images": [
+                "excited",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Don't be worried, everything is fine.",
+              "sentenceCn": "别担心，一切都会好起来的。",
+              "correctImage": "worried",
+              "images": [
+                "worried",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Health & Sickness 身体健康与不适",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I have a cold and sneeze.",
+              "sentenceCn": "我感冒了，而且打喷嚏。",
+              "correctImage": "have a cold",
+              "images": [
+                "have a cold",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Go to see a doctor if you have a fever.",
+              "sentenceCn": "发烧的话去看医生。",
+              "correctImage": "have a fever",
+              "images": [
+                "have a fever",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I can't study well because I have a headache.",
+              "sentenceCn": "我头疼，没办法好好学习。",
+              "correctImage": "have a headache",
+              "images": [
+                "have a headache",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "He has a toothache and can't eat candy.",
+              "sentenceCn": "他牙疼，不能吃糖果。",
+              "correctImage": "have a toothache",
+              "images": [
+                "have a toothache",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "My throat is sore because of the wind.",
+              "sentenceCn": "因为吹风我的喉咙痛。",
+              "correctImage": "sore throat",
+              "images": [
+                "sore throat",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Future plans 毕业打算与未来规划",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I will go to middle school next term.",
+              "sentenceCn": "我下学期要上初中了。",
+              "correctImage": "go to middle school",
+              "images": [
+                "go to middle school",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "We plan to travel to Beijing in summer.",
+              "sentenceCn": "我们计划在夏天去北京旅游。",
+              "correctImage": "travel to Beijing",
+              "images": [
+                "travel to Beijing",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I want to study English more.",
+              "sentenceCn": "我想多学点英语。",
+              "correctImage": "study English",
+              "images": [
+                "study English",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "My teacher tells me to read more books.",
+              "sentenceCn": "老师叫我多读书。",
+              "correctImage": "read more books",
+              "images": [
+                "read more books",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I want to play basketball this afternoon.",
+              "sentenceCn": "我今天下午想打篮球。",
+              "correctImage": "play basketball",
+              "images": [
+                "play basketball",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "Travel and transport 旅游出行方式",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We travel to Beijing by plane.",
+              "sentenceCn": "我们坐飞机去北京旅游。",
+              "correctImage": "by plane",
+              "images": [
+                "by plane",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Take the high-speed train, it is fast.",
+              "sentenceCn": "坐高铁去吧，很快的。",
+              "correctImage": "by train",
+              "images": [
+                "by train",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Cross the ocean by ship.",
+              "sentenceCn": "坐轮船横渡海洋。",
+              "correctImage": "by ship",
+              "images": [
+                "by ship",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Many people go to work by bus.",
+              "sentenceCn": "许多人坐公交车去上班。",
+              "correctImage": "by bus",
+              "images": [
+                "by bus",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We go to the park near here on foot.",
+              "sentenceCn": "我们步行去这附近的公园。",
+              "correctImage": "on foot",
+              "images": [
+                "on foot",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I will go to middle school by train.",
+              "sentenceCn": "我将坐火车去上初中。",
+              "correctImage": "go to middle school",
+              "images": [
+                "go to middle school",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "She feels sad because she has a fever.",
+              "sentenceCn": "她很难过，因为她发烧了。",
+              "correctImage": "sad",
+              "images": [
+                "sad",
+                "happy",
+                "angry",
+                "excited"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We are excited to travel by plane.",
+              "sentenceCn": "我们对坐飞机旅行感到兴奋。",
+              "correctImage": "excited",
+              "images": [
+                "excited",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "He has a cold, so he stays in bed.",
+              "sentenceCn": "他感冒了，所以躺在床上。",
+              "correctImage": "have a cold",
+              "images": [
+                "have a cold",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "My dad is worried about my sore throat.",
+              "sentenceCn": "我爸爸担心我喉咙痛。",
+              "correctImage": "worried",
+              "images": [
+                "worried",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (过去的活动、兴趣爱好与对比描述)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Past activities 过去发生的活动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I went swimming yesterday afternoon.",
+              "sentenceCn": "我昨天下午去游泳了。",
+              "correctImage": "went swimming",
+              "images": [
+                "went swimming",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He read a book about space last night.",
+              "sentenceCn": "他昨晚读了一本关于太空的书。",
+              "correctImage": "read a book",
+              "images": [
+                "read a book",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We saw an interesting movie last week.",
+              "sentenceCn": "我们上周看了一部有趣的电影。",
+              "correctImage": "saw a movie",
+              "images": [
+                "saw a movie",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "We ate good food at the party.",
+              "sentenceCn": "我们在聚会上吃了好吃的食物。",
+              "correctImage": "ate good food",
+              "images": [
+                "ate good food",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I visited grandparents in the village.",
+              "sentenceCn": "我去看望了乡下的爷爷奶奶/外公外婆。",
+              "correctImage": "visited grandparents",
+              "images": [
+                "visited grandparents",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Hobbies 2 兴趣与收集",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I love to collect stamps.",
+              "sentenceCn": "我喜欢收集邮票。",
+              "correctImage": "collect stamps",
+              "images": [
+                "collect stamps",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "My sister likes to read stories.",
+              "sentenceCn": "我妹妹喜欢读故事。",
+              "correctImage": "read stories",
+              "images": [
+                "read stories",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We go hiking on weekends.",
+              "sentenceCn": "我们周末去徒步/爬山。",
+              "correctImage": "go hiking",
+              "images": [
+                "go hiking",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "My uncle plays chess very well.",
+              "sentenceCn": "我叔叔国际象棋下得很好。",
+              "correctImage": "play chess",
+              "images": [
+                "play chess",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "My mom does yoga in the morning.",
+              "sentenceCn": "我妈妈在早上做瑜伽。",
+              "correctImage": "do yoga",
+              "images": [
+                "do yoga",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Compare people 人物特征对比",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The brother is taller than the sister.",
+              "sentenceCn": "兄弟比姐妹高。",
+              "correctImage": "taller",
+              "images": [
+                "taller",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The sister is shorter.",
+              "sentenceCn": "姐妹比较矮。",
+              "correctImage": "shorter",
+              "images": [
+                "shorter",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "He lifts heavy weight, he is stronger.",
+              "sentenceCn": "他能举起重物，他更强壮。",
+              "correctImage": "stronger",
+              "images": [
+                "stronger",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "My grandpa is older than my dad.",
+              "sentenceCn": "我爷爷比我爸爸年纪大。",
+              "correctImage": "older",
+              "images": [
+                "older",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The baby is younger.",
+              "sentenceCn": "婴儿年纪更小。",
+              "correctImage": "younger",
+              "images": [
+                "younger",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Compare objects 物品尺寸重量对比",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The elephant is much bigger.",
+              "sentenceCn": "大象庞大得多。",
+              "correctImage": "bigger",
+              "images": [
+                "bigger",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The mouse is smaller.",
+              "sentenceCn": "老鼠更小。",
+              "correctImage": "smaller",
+              "images": [
+                "smaller",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The ruler is longer than the pencil.",
+              "sentenceCn": "直尺比铅笔长。",
+              "correctImage": "longer",
+              "images": [
+                "longer",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The heavy stone is heavier.",
+              "sentenceCn": "沉重的石头更重。",
+              "correctImage": "heavier",
+              "images": [
+                "heavier",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The thin paper is thinner.",
+              "sentenceCn": "薄纸更薄。",
+              "correctImage": "thinner",
+              "images": [
+                "thinner",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "My older brother is taller than me.",
+              "sentenceCn": "我的哥哥比我高。",
+              "correctImage": "taller",
+              "images": [
+                "taller",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Yesterday we saw a movie about a bigger bear.",
+              "sentenceCn": "昨天我们看了一部关于大熊的电影。",
+              "correctImage": "saw a movie",
+              "images": [
+                "saw a movie",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "He read stories under the tree.",
+              "sentenceCn": "他在树下读故事。",
+              "correctImage": "read stories",
+              "images": [
+                "read stories",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The younger sister went swimming.",
+              "sentenceCn": "妹妹去游泳了。",
+              "correctImage": "went swimming",
+              "images": [
+                "went swimming",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I visited grandparents and played chess.",
+              "sentenceCn": "我拜访了祖父母并下了棋。",
+              "correctImage": "play chess",
+              "images": [
+                "play chess",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (专业职业、天气变化与传统节日)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Jobs 2 更多职业",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The scientist works in the lab.",
+              "sentenceCn": "科学家在实验室工作。",
+              "correctImage": "scientist",
+              "images": [
+                "scientist",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The pilot flies a huge plane.",
+              "sentenceCn": "飞行员驾驶一架巨大的飞机。",
+              "correctImage": "pilot",
+              "images": [
+                "pilot",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The football coach is training players.",
+              "sentenceCn": "足球教练正在训练球员。",
+              "correctImage": "coach",
+              "images": [
+                "coach",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The businessman sells books.",
+              "sentenceCn": "那个商人卖书。",
+              "correctImage": "businessman",
+              "images": [
+                "businessman",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The postman brings letters to our home.",
+              "sentenceCn": "邮递员把信件送到我们家。",
+              "correctImage": "postman",
+              "images": [
+                "postman",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "Extreme weather 极端天气",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The typhoon is very strong.",
+              "sentenceCn": "台风非常强劲。",
+              "correctImage": "typhoon",
+              "images": [
+                "typhoon",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The rainstorm flooded the street.",
+              "sentenceCn": "暴风雨淹没了街道。",
+              "correctImage": "rainstorm",
+              "images": [
+                "rainstorm",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A heavy snowstorm closed the school.",
+              "sentenceCn": "一场大暴雪让学校停课了。",
+              "correctImage": "snowstorm",
+              "images": [
+                "snowstorm",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Warm sunshine makes us happy.",
+              "sentenceCn": "温暖的阳光让我们高兴。",
+              "correctImage": "sunshine",
+              "images": [
+                "sunshine",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "A gentle breeze blows in spring.",
+              "sentenceCn": "春日里，微风和煦地吹着。",
+              "correctImage": "breeze",
+              "images": [
+                "breeze",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Festivals 传统与现代节日",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Eat mooncakes during the Mid-Autumn Festival.",
+              "sentenceCn": "中秋节吃月饼。",
+              "correctImage": "Mid-Autumn Festival",
+              "images": [
+                "Mid-Autumn Festival",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "We get red packets in the Spring Festival.",
+              "sentenceCn": "我们在春节拿到红包。",
+              "correctImage": "Spring Festival",
+              "images": [
+                "Spring Festival",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We watch dragon boat race during the Dragon Boat Festival.",
+              "sentenceCn": "我们在端午节看龙舟比赛。",
+              "correctImage": "Dragon Boat Festival",
+              "images": [
+                "Dragon Boat Festival",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Decorate the green tree on Christmas.",
+              "sentenceCn": "圣诞节装扮绿色树木。",
+              "correctImage": "Christmas",
+              "images": [
+                "Christmas",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Wear a scary mask on Halloween.",
+              "sentenceCn": "在万圣节戴上可怕的面具。",
+              "correctImage": "Halloween",
+              "images": [
+                "Halloween",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "Places 3 科学与艺术场馆",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Learn history in the museum.",
+              "sentenceCn": "在博物馆学习历史。",
+              "correctImage": "museum",
+              "images": [
+                "museum",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The astronauts are in the space station.",
+              "sentenceCn": "宇航员在空间站里。",
+              "correctImage": "space station",
+              "images": [
+                "space station",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We visit the science museum.",
+              "sentenceCn": "我们参观科学博物馆。",
+              "correctImage": "science museum",
+              "images": [
+                "science museum",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Borrow a book from the library.",
+              "sentenceCn": "从图书馆借书。",
+              "correctImage": "library",
+              "images": [
+                "library",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Look at beautiful paintings in the art gallery.",
+              "sentenceCn": "在美术馆看漂亮的画作。",
+              "correctImage": "art gallery",
+              "images": [
+                "art gallery",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The scientist visited the science museum.",
+              "sentenceCn": "科学家参观了科技馆。",
+              "correctImage": "scientist",
+              "images": [
+                "scientist",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The postman works in the snowstorm.",
+              "sentenceCn": "邮递员在暴风雪中工作。",
+              "correctImage": "postman",
+              "images": [
+                "postman",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Decorate the tree under the warm sunshine.",
+              "sentenceCn": "在温暖的阳光下装扮这棵树。",
+              "correctImage": "sunshine",
+              "images": [
+                "sunshine",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The pilot visited the art gallery.",
+              "sentenceCn": "飞行员参观了美术馆。",
+              "correctImage": "pilot",
+              "images": [
+                "pilot",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Mid-Autumn Festival is in the autumn.",
+              "sentenceCn": "中秋节在秋天。",
+              "correctImage": "Mid-Autumn Festival",
+              "images": [
+                "Mid-Autumn Festival",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (现代科技、环保行动与地球家园)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "Technology 现代科技",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I use the computer for homework.",
+              "sentenceCn": "我用电脑做作业。",
+              "correctImage": "computer",
+              "images": [
+                "computer",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The internet connects the world.",
+              "sentenceCn": "互联网将世界连接起来。",
+              "correctImage": "internet",
+              "images": [
+                "internet",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Talk to mom on the mobile phone.",
+              "sentenceCn": "在手机上和妈妈聊天。",
+              "correctImage": "mobile phone",
+              "images": [
+                "mobile phone",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Send an email to my teacher.",
+              "sentenceCn": "给我的老师发电子邮件。",
+              "correctImage": "email",
+              "images": [
+                "email",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We have a video call with grandma.",
+              "sentenceCn": "我们和奶奶进行视频通话。",
+              "correctImage": "video call",
+              "images": [
+                "video call",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "Earth & Space 地球与宇宙",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The earth is our blue home.",
+              "sentenceCn": "地球是我们蓝色的家园。",
+              "correctImage": "earth",
+              "images": [
+                "earth",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Rockets fly into outer space.",
+              "sentenceCn": "火箭飞向外太空。",
+              "correctImage": "space",
+              "images": [
+                "space",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The sun gives light and heat.",
+              "sentenceCn": "太阳给予光和热。",
+              "correctImage": "sun",
+              "images": [
+                "sun",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The moon is round and bright.",
+              "sentenceCn": "月亮又圆又亮。",
+              "correctImage": "moon",
+              "images": [
+                "moon",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "There are many stars in the sky.",
+              "sentenceCn": "天空中有许多星星。",
+              "correctImage": "star",
+              "images": [
+                "star",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Green action 环保行动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We like planting trees in spring.",
+              "sentenceCn": "我们喜欢在春天植树。",
+              "correctImage": "planting trees",
+              "images": [
+                "planting trees",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Save resources by recycling paper.",
+              "sentenceCn": "通过回收废纸节约资源。",
+              "correctImage": "recycling paper",
+              "images": [
+                "recycling paper",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Turn off the tap for saving water.",
+              "sentenceCn": "关掉水龙头以节约用水。",
+              "correctImage": "saving water",
+              "images": [
+                "saving water",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Keep the park clean by cleaning the park.",
+              "sentenceCn": "打扫公园以保持其干净。",
+              "correctImage": "cleaning the park",
+              "images": [
+                "cleaning the park",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Protect pandas by protecting animals.",
+              "sentenceCn": "保护动物来保护熊猫。",
+              "correctImage": "protecting animals",
+              "images": [
+                "protecting animals",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Daily objects 2 个人随身物品",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I keep money in my wallet.",
+              "sentenceCn": "我把钱放在钱包里。",
+              "correctImage": "wallet",
+              "images": [
+                "wallet",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Where is my house key?",
+              "sentenceCn": "我家的钥匙在哪里？",
+              "correctImage": "key",
+              "images": [
+                "key",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Grandpa wears reading glasses.",
+              "sentenceCn": "爷爷戴着老花镜。",
+              "correctImage": "glasses",
+              "images": [
+                "glasses",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The watch shows ten past nine.",
+              "sentenceCn": "手表显示九点十分。",
+              "correctImage": "watch",
+              "images": [
+                "watch",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Take a photo with the camera.",
+              "sentenceCn": "用相机拍张照片。",
+              "correctImage": "camera",
+              "images": [
+                "camera",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We use the mobile phone to make video calls.",
+              "sentenceCn": "我们使用手机进行视频通话。",
+              "correctImage": "video call",
+              "images": [
+                "video call",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I take photos of the earth with the camera.",
+              "sentenceCn": "我用相机拍摄地球的照片。",
+              "correctImage": "camera",
+              "images": [
+                "camera",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We study space on the computer.",
+              "sentenceCn": "我们在电脑上研究太空。",
+              "correctImage": "computer",
+              "images": [
+                "computer",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Protect animals on the earth.",
+              "sentenceCn": "保护地球上的动物。",
+              "correctImage": "protecting animals",
+              "images": [
+                "protecting animals",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I lost my watch on the train.",
+              "sentenceCn": "我的手表在火车上丢了。",
+              "correctImage": "watch",
+              "images": [
+                "watch",
+                "happy",
+                "angry",
+                "sad"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

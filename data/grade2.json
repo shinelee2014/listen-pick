@@ -1,0 +1,1252 @@
+{
+  "grade": 2,
+  "gradeName": "二年级",
+  "gradeEmoji": "🍊",
+  "imageCount": 2,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (家庭成员与天气)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "Family 家庭成员",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "He is my brother.",
+              "sentenceCn": "他是我的兄弟。",
+              "correctImage": "brother",
+              "images": [
+                "brother",
+                "sister"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "She is my sister.",
+              "sentenceCn": "她是我的姐妹。",
+              "correctImage": "sister",
+              "images": [
+                "sister",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I love my grandpa.",
+              "sentenceCn": "我爱我的爷爷/外公。",
+              "correctImage": "grandpa",
+              "images": [
+                "grandpa",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "My grandma is kind.",
+              "sentenceCn": "我的奶奶/外婆很慈祥。",
+              "correctImage": "grandma",
+              "images": [
+                "grandma",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "He is my good friend.",
+              "sentenceCn": "他是我的好朋友。",
+              "correctImage": "friend",
+              "images": [
+                "friend",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Weather 天气状况",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "It is sunny today.",
+              "sentenceCn": "今天是晴天。",
+              "correctImage": "sunny",
+              "images": [
+                "sunny",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Take an umbrella, it is rainy.",
+              "sentenceCn": "带把伞，下雨了。",
+              "correctImage": "rainy",
+              "images": [
+                "rainy",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "It is cloudy and cool.",
+              "sentenceCn": "多云且凉爽。",
+              "correctImage": "cloudy",
+              "images": [
+                "cloudy",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The wind is blowing, it is windy.",
+              "sentenceCn": "风在吹，有风了。",
+              "correctImage": "windy",
+              "images": [
+                "windy",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "It is white and snowy.",
+              "sentenceCn": "下雪了，一片雪白。",
+              "correctImage": "snowy",
+              "images": [
+                "snowy",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Stationery 学习文具",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Use your ruler to draw.",
+              "sentenceCn": "用你的直尺来画画。",
+              "correctImage": "ruler",
+              "images": [
+                "ruler",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Write with a pencil.",
+              "sentenceCn": "用铅笔写字。",
+              "correctImage": "pencil",
+              "images": [
+                "pencil",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I need an eraser.",
+              "sentenceCn": "我需要一块橡皮。",
+              "correctImage": "eraser",
+              "images": [
+                "eraser",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Draw with a crayon.",
+              "sentenceCn": "用蜡笔画画。",
+              "correctImage": "crayon",
+              "images": [
+                "crayon",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The paper is white.",
+              "sentenceCn": "这纸是白色的。",
+              "correctImage": "paper",
+              "images": [
+                "paper",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "Food 2 更多食物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I eat bread in the morning.",
+              "sentenceCn": "我早上吃面包。",
+              "correctImage": "bread",
+              "images": [
+                "bread",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I like boiled egg.",
+              "sentenceCn": "我喜欢水煮蛋。",
+              "correctImage": "egg",
+              "images": [
+                "egg",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Drink some orange juice.",
+              "sentenceCn": "喝点橙汁。",
+              "correctImage": "juice",
+              "images": [
+                "juice",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I drink fresh water.",
+              "sentenceCn": "我喝新鲜水。",
+              "correctImage": "water",
+              "images": [
+                "water",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Grandpa drinks warm tea.",
+              "sentenceCn": "爷爷喝温茶。",
+              "correctImage": "tea",
+              "images": [
+                "tea",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Family & Home Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "My sister eats bread.",
+              "sentenceCn": "我的妹妹在吃面包。",
+              "correctImage": "sister",
+              "images": [
+                "sister",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Grandma drinks some water.",
+              "sentenceCn": "奶奶喝了些水。",
+              "correctImage": "grandma",
+              "images": [
+                "grandma",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "It is rainy, my friend stays home.",
+              "sentenceCn": "下雨了，我的朋友留在家。",
+              "correctImage": "rainy",
+              "images": [
+                "rainy",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "My brother has a new pencil.",
+              "sentenceCn": "我兄弟有一支新铅笔。",
+              "correctImage": "pencil",
+              "images": [
+                "pencil",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "It is sunny, play with friend.",
+              "sentenceCn": "天气晴朗，和朋友玩耍。",
+              "correctImage": "friend",
+              "images": [
+                "friend",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (数字、运动与动物)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Numbers 6-10 数字",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I can see six crayons.",
+              "sentenceCn": "我能看到六支蜡笔。",
+              "correctImage": "six",
+              "images": [
+                "six",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "She is seven years old.",
+              "sentenceCn": "她七岁了。",
+              "correctImage": "seven",
+              "images": [
+                "seven",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "There are eight eggs.",
+              "sentenceCn": "有八个鸡蛋。",
+              "correctImage": "eight",
+              "images": [
+                "eight",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Nine rulers are on the desk.",
+              "sentenceCn": "桌上有九把尺子。",
+              "correctImage": "nine",
+              "images": [
+                "nine",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I have ten blue pens.",
+              "sentenceCn": "我有十支蓝色笔。",
+              "correctImage": "ten",
+              "images": [
+                "ten",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Sports 体育运动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I can swim like a fish.",
+              "sentenceCn": "我会游泳，像鱼一样。",
+              "correctImage": "swim",
+              "images": [
+                "swim",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Let us play football.",
+              "sentenceCn": "让我们踢足球吧。",
+              "correctImage": "play football",
+              "images": [
+                "play football",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The boy plays basketball.",
+              "sentenceCn": "男孩打篮球。",
+              "correctImage": "play basketball",
+              "images": [
+                "play basketball",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Run fast to the school.",
+              "sentenceCn": "跑快点去学校。",
+              "correctImage": "run",
+              "images": [
+                "run",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Jump high like a rabbit.",
+              "sentenceCn": "跳高，像兔子一样。",
+              "correctImage": "jump",
+              "images": [
+                "jump",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Animals 3 农场动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The cow gives sweet milk.",
+              "sentenceCn": "奶牛给甜牛奶。",
+              "correctImage": "cow",
+              "images": [
+                "cow",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Ride a big horse.",
+              "sentenceCn": "骑大马。",
+              "correctImage": "horse",
+              "images": [
+                "horse",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The pig is fat and pink.",
+              "sentenceCn": "小猪又胖又粉。",
+              "correctImage": "pig",
+              "images": [
+                "pig",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The white sheep eats grass.",
+              "sentenceCn": "白绵羊在吃草。",
+              "correctImage": "sheep",
+              "images": [
+                "sheep",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The duck swims in the pond.",
+              "sentenceCn": "鸭子在池塘里游泳。",
+              "correctImage": "duck",
+              "images": [
+                "duck",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Fruits 2 更多水果",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The lemon is sour.",
+              "sentenceCn": "柠檬是酸的。",
+              "correctImage": "lemon",
+              "images": [
+                "lemon",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I like red strawberry.",
+              "sentenceCn": "我喜欢红草莓。",
+              "correctImage": "strawberry",
+              "images": [
+                "strawberry",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "This cherry is sweet.",
+              "sentenceCn": "这颗樱桃很甜。",
+              "correctImage": "cherry",
+              "images": [
+                "cherry",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The pineapple is big.",
+              "sentenceCn": "菠萝很大。",
+              "correctImage": "pineapple",
+              "images": [
+                "pineapple",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Watermelon is sweet and juicy.",
+              "sentenceCn": "西瓜又甜又多汁。",
+              "correctImage": "watermelon",
+              "images": [
+                "watermelon",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Numbers & Animals Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I have seven ducks.",
+              "sentenceCn": "我有七只鸭子。",
+              "correctImage": "seven",
+              "images": [
+                "seven",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Look at the six pigs.",
+              "sentenceCn": "看那六只猪。",
+              "correctImage": "six",
+              "images": [
+                "six",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The horse can jump.",
+              "sentenceCn": "马会跳跃。",
+              "correctImage": "jump",
+              "images": [
+                "jump",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The cow can swim.",
+              "sentenceCn": "奶牛会游泳。",
+              "correctImage": "swim",
+              "images": [
+                "swim",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We see ten sheep.",
+              "sentenceCn": "我们看到十只绵羊。",
+              "correctImage": "ten",
+              "images": [
+                "ten",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (服饰、家居与形状)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Clothes 2 更多服饰",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "She wears a pink skirt.",
+              "sentenceCn": "她穿着一条粉红色的短裙。",
+              "correctImage": "skirt",
+              "images": [
+                "skirt",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "This pretty dress is new.",
+              "sentenceCn": "这条漂亮的连衣裙是新的。",
+              "correctImage": "dress",
+              "images": [
+                "dress",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Where are my trousers?",
+              "sentenceCn": "我的长裤在哪里？",
+              "correctImage": "trousers",
+              "images": [
+                "trousers",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "He wears blue shorts in summer.",
+              "sentenceCn": "他在夏天穿蓝色短裤。",
+              "correctImage": "shorts",
+              "images": [
+                "shorts",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Put on your warm sweater.",
+              "sentenceCn": "穿上你温暖的毛衣。",
+              "correctImage": "sweater",
+              "images": [
+                "sweater",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "Household 家用电器与物品",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Watch television with family.",
+              "sentenceCn": "和家人一起看电视。",
+              "correctImage": "television",
+              "images": [
+                "television",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Answer the telephone.",
+              "sentenceCn": "接电话。",
+              "correctImage": "telephone",
+              "images": [
+                "telephone",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The clock says eight.",
+              "sentenceCn": "时钟指着八点。",
+              "correctImage": "clock",
+              "images": [
+                "clock",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Turn on the lamp.",
+              "sentenceCn": "开灯。",
+              "correctImage": "lamp",
+              "images": [
+                "lamp",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Look at the mirror.",
+              "sentenceCn": "照镜子。",
+              "correctImage": "mirror",
+              "images": [
+                "mirror",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Shapes 认知形状",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The sun is a circle.",
+              "sentenceCn": "太阳是圆形的。",
+              "correctImage": "circle",
+              "images": [
+                "circle",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Draw a square shape.",
+              "sentenceCn": "画一个正方形。",
+              "correctImage": "square shape",
+              "images": [
+                "square shape",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The roof is a triangle.",
+              "sentenceCn": "屋顶是个三角形。",
+              "correctImage": "triangle",
+              "images": [
+                "triangle",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Draw a golden star.",
+              "sentenceCn": "画一颗金色的星星。",
+              "correctImage": "star",
+              "images": [
+                "star",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I make a red heart.",
+              "sentenceCn": "我做一个红色的爱心。",
+              "correctImage": "heart",
+              "images": [
+                "heart",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "School 2 学校生活",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Our classroom is big.",
+              "sentenceCn": "我们的教室很大。",
+              "correctImage": "classroom",
+              "images": [
+                "classroom",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The teacher is speaking.",
+              "sentenceCn": "老师在讲话。",
+              "correctImage": "teacher",
+              "images": [
+                "teacher",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The student reads loud.",
+              "sentenceCn": "学生大声朗读。",
+              "correctImage": "student",
+              "images": [
+                "student",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Look at the blackboard.",
+              "sentenceCn": "看黑板。",
+              "correctImage": "blackboard",
+              "images": [
+                "blackboard",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Clean your desk.",
+              "sentenceCn": "清理你的书桌。",
+              "correctImage": "desk",
+              "images": [
+                "desk",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Comprehensive Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The teacher wears a blue dress.",
+              "sentenceCn": "老师穿着一件蓝色连衣裙。",
+              "correctImage": "dress",
+              "images": [
+                "dress",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The clock is on the blackboard.",
+              "sentenceCn": "时钟挂在黑板上。",
+              "correctImage": "clock",
+              "images": [
+                "clock",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Draw a green circle.",
+              "sentenceCn": "画一个绿色的圆形。",
+              "correctImage": "circle",
+              "images": [
+                "circle",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The student has a yellow sweater.",
+              "sentenceCn": "那个学生有一件黄色毛衣。",
+              "correctImage": "sweater",
+              "images": [
+                "sweater",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "There is a mirror in the classroom.",
+              "sentenceCn": "教室里有一面镜子。",
+              "correctImage": "mirror",
+              "images": [
+                "mirror",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (昆虫、场所与时间)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "Insects 常见昆虫",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The bee makes honey.",
+              "sentenceCn": "蜜蜂酿造蜂蜜。",
+              "correctImage": "bee",
+              "images": [
+                "bee",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The little ant is strong.",
+              "sentenceCn": "小蚂蚁很有力气。",
+              "correctImage": "ant",
+              "images": [
+                "ant",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A butterfly sits on the flower.",
+              "sentenceCn": "一只蝴蝶落在花上。",
+              "correctImage": "butterfly",
+              "images": [
+                "butterfly",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The spider makes a web.",
+              "sentenceCn": "蜘蛛结网。",
+              "correctImage": "spider",
+              "images": [
+                "spider",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The ladybug has red spots.",
+              "sentenceCn": "瓢虫有红色的斑点。",
+              "correctImage": "ladybug",
+              "images": [
+                "ladybug",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "Places 常见场所",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Let us play in the park.",
+              "sentenceCn": "让我们在公园里玩吧。",
+              "correctImage": "park",
+              "images": [
+                "park",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "See wild animals in the zoo.",
+              "sentenceCn": "在动物园看野生动物。",
+              "correctImage": "zoo",
+              "images": [
+                "zoo",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The farm has many cows.",
+              "sentenceCn": "农场里有很多奶牛。",
+              "correctImage": "farm",
+              "images": [
+                "farm",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Go home after school.",
+              "sentenceCn": "放学后回家。",
+              "correctImage": "home",
+              "images": [
+                "home",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Buy a book in the shop.",
+              "sentenceCn": "在商店买本书。",
+              "correctImage": "shop",
+              "images": [
+                "shop",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Time 时间段",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Say good morning to teacher.",
+              "sentenceCn": "跟老师说早上好。",
+              "correctImage": "morning",
+              "images": [
+                "morning",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I eat lunch in the afternoon.",
+              "sentenceCn": "我下午吃午餐。",
+              "correctImage": "afternoon",
+              "images": [
+                "afternoon",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The sun sets in the evening.",
+              "sentenceCn": "太阳在黄昏落下。",
+              "correctImage": "evening",
+              "images": [
+                "evening",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The moon shines at night.",
+              "sentenceCn": "月亮在夜晚照耀。",
+              "correctImage": "night",
+              "images": [
+                "night",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We study during the day.",
+              "sentenceCn": "我们在白天学习。",
+              "correctImage": "day",
+              "images": [
+                "day",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Body 2 更多身体部位",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I have two strong arms.",
+              "sentenceCn": "我有两条强壮的胳膊。",
+              "correctImage": "arm",
+              "images": [
+                "arm",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "My leg is long.",
+              "sentenceCn": "我的腿很长。",
+              "correctImage": "leg",
+              "images": [
+                "leg",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A dog has four feet.",
+              "sentenceCn": "狗有四只脚。",
+              "correctImage": "foot",
+              "images": [
+                "foot",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Shake your head.",
+              "sentenceCn": "摇摇头。",
+              "correctImage": "head",
+              "images": [
+                "head",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Wash your face clean.",
+              "sentenceCn": "把脸洗干净。",
+              "correctImage": "face",
+              "images": [
+                "face",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "A butterfly is in the park.",
+              "sentenceCn": "公园里有一只蝴蝶。",
+              "correctImage": "butterfly",
+              "images": [
+                "butterfly",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The ant is near my foot.",
+              "sentenceCn": "蚂蚁在我的脚附近。",
+              "correctImage": "ant",
+              "images": [
+                "ant",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Go to the shop in the morning.",
+              "sentenceCn": "早上走去商店。",
+              "correctImage": "shop",
+              "images": [
+                "shop",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The spider climbs on the farm.",
+              "sentenceCn": "蜘蛛在农场里爬行。",
+              "correctImage": "spider",
+              "images": [
+                "spider",
+                "brother"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Look at the mirror at night.",
+              "sentenceCn": "在夜晚照镜子。",
+              "correctImage": "mirror",
+              "images": [
+                "mirror",
+                "brother"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

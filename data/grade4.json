@@ -1,0 +1,1352 @@
+{
+  "grade": 4,
+  "gradeName": "四年级",
+  "gradeEmoji": "🌿",
+  "imageCount": 3,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (学校设施、时间与服饰)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "School rooms 学校功能室",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I read books in the library.",
+              "sentenceCn": "我们在图书馆里读书。",
+              "correctImage": "library",
+              "images": [
+                "library",
+                "playground",
+                "computer room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Play football on the playground.",
+              "sentenceCn": "在操场上踢足球。",
+              "correctImage": "playground",
+              "images": [
+                "playground",
+                "library",
+                "computer room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We study in the computer room.",
+              "sentenceCn": "我们在电脑室里学习。",
+              "correctImage": "computer room",
+              "images": [
+                "computer room",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Listen to music in the music room.",
+              "sentenceCn": "在音乐教室里听音乐。",
+              "correctImage": "music room",
+              "images": [
+                "music room",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Do exercise in the school gym.",
+              "sentenceCn": "在学校体育馆做运动。",
+              "correctImage": "gym",
+              "images": [
+                "gym",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Time o'clock 整点时间",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "It is seven o'clock, get up.",
+              "sentenceCn": "七点钟了，起床。",
+              "correctImage": "seven o'clock",
+              "images": [
+                "seven o'clock",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Eat lunch at twelve o'clock.",
+              "sentenceCn": "十二点吃午饭。",
+              "correctImage": "twelve o'clock",
+              "images": [
+                "twelve o'clock",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "School is over at three o'clock.",
+              "sentenceCn": "三点钟放学。",
+              "correctImage": "three o'clock",
+              "images": [
+                "three o'clock",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Eat dinner at six o'clock.",
+              "sentenceCn": "六点吃晚饭。",
+              "correctImage": "six o'clock",
+              "images": [
+                "six o'clock",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Go to bed at nine o'clock.",
+              "sentenceCn": "九点睡觉。",
+              "correctImage": "nine o'clock",
+              "images": [
+                "nine o'clock",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Clothes 3 四季衣物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Wear a warm jacket.",
+              "sentenceCn": "穿一件温暖的夹克。",
+              "correctImage": "jacket",
+              "images": [
+                "jacket",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Put on your winter coat.",
+              "sentenceCn": "穿上你的冬装大衣。",
+              "correctImage": "coat",
+              "images": [
+                "coat",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The white shirt is clean.",
+              "sentenceCn": "白衬衫很干净。",
+              "correctImage": "shirt",
+              "images": [
+                "shirt",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "This green sweater is nice.",
+              "sentenceCn": "这件绿色毛衣很好看。",
+              "correctImage": "sweater",
+              "images": [
+                "sweater",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "My socks are red.",
+              "sentenceCn": "我的袜子是红色的。",
+              "correctImage": "socks",
+              "images": [
+                "socks",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "Weather 2 进阶天气",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The weather is warm in spring.",
+              "sentenceCn": "春天的天气很暖和。",
+              "correctImage": "warm",
+              "images": [
+                "warm",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is hot and sunny.",
+              "sentenceCn": "天气炎热且晴朗。",
+              "correctImage": "hot",
+              "images": [
+                "hot",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A cool breeze in autumn.",
+              "sentenceCn": "秋天凉爽的微风。",
+              "correctImage": "cool",
+              "images": [
+                "cool",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "It is cold and snowy.",
+              "sentenceCn": "天气寒冷且下雪。",
+              "correctImage": "cold",
+              "images": [
+                "cold",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Take a raincoat on a rainy day.",
+              "sentenceCn": "下雨天带一件雨衣。",
+              "correctImage": "rainy",
+              "images": [
+                "rainy",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I study in the library at nine o'clock.",
+              "sentenceCn": "我九点钟在图书馆学习。",
+              "correctImage": "library",
+              "images": [
+                "library",
+                "playground",
+                "computer room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is cold, put on your coat.",
+              "sentenceCn": "天气很冷，穿上你的大衣。",
+              "correctImage": "coat",
+              "images": [
+                "coat",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We play football on the playground at three o'clock.",
+              "sentenceCn": "我们三点在操场踢足球。",
+              "correctImage": "playground",
+              "images": [
+                "playground",
+                "library",
+                "computer room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The library is very warm.",
+              "sentenceCn": "图书馆里很暖和。",
+              "correctImage": "warm",
+              "images": [
+                "warm",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Go to the gym at twelve o'clock.",
+              "sentenceCn": "十二点去体育馆。",
+              "correctImage": "gym",
+              "images": [
+                "gym",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (农场动物、蔬菜与数字)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Animals 6 农场动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The horse runs fast on the grass.",
+              "sentenceCn": "马在草地上跑得很快。",
+              "correctImage": "horse",
+              "images": [
+                "horse",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The cow is eating green grass.",
+              "sentenceCn": "奶牛在吃绿草。",
+              "correctImage": "cow",
+              "images": [
+                "cow",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "These sheep are white.",
+              "sentenceCn": "这些绵羊是白色的。",
+              "correctImage": "sheep",
+              "images": [
+                "sheep",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The hen gives an egg.",
+              "sentenceCn": "母鸡下了一个蛋。",
+              "correctImage": "hen",
+              "images": [
+                "hen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Look at the black goat.",
+              "sentenceCn": "看那只黑山羊。",
+              "correctImage": "goat",
+              "images": [
+                "goat",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Vegetables 蔬菜分类",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The tomato is red and round.",
+              "sentenceCn": "西红柿又红又圆。",
+              "correctImage": "tomato",
+              "images": [
+                "tomato",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I like mashed potato.",
+              "sentenceCn": "我喜欢土豆泥。",
+              "correctImage": "potato",
+              "images": [
+                "potato",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The rabbit likes orange carrot.",
+              "sentenceCn": "兔子喜欢橙色的胡萝卜。",
+              "correctImage": "carrot",
+              "images": [
+                "carrot",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The onion smells strong.",
+              "sentenceCn": "洋葱味很浓烈。",
+              "correctImage": "onion",
+              "images": [
+                "onion",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The sweet corn is yellow.",
+              "sentenceCn": "甜玉米是黄色的。",
+              "correctImage": "corn",
+              "images": [
+                "corn",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Hobbies 课余爱好",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I love swimming in summer.",
+              "sentenceCn": "我夏天喜欢游泳。",
+              "correctImage": "swimming",
+              "images": [
+                "swimming",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "She studies dancing.",
+              "sentenceCn": "她学习跳舞。",
+              "correctImage": "dancing",
+              "images": [
+                "dancing",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We enjoy singing songs.",
+              "sentenceCn": "我们喜欢唱歌。",
+              "correctImage": "singing",
+              "images": [
+                "singing",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Drawing is my favorite hobby.",
+              "sentenceCn": "画画是我最喜欢的爱好。",
+              "correctImage": "drawing",
+              "images": [
+                "drawing",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I like reading storybooks.",
+              "sentenceCn": "我喜欢读故事书。",
+              "correctImage": "reading",
+              "images": [
+                "reading",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Numbers 16-20 进阶数字",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "There are sixteen tomatoes.",
+              "sentenceCn": "有十六个西红柿。",
+              "correctImage": "sixteen",
+              "images": [
+                "sixteen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I count seventeen sheep.",
+              "sentenceCn": "我数了十七只绵羊。",
+              "correctImage": "seventeen",
+              "images": [
+                "seventeen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Eighteen carrots are in the box.",
+              "sentenceCn": "盒子里有十八根胡萝卜。",
+              "correctImage": "eighteen",
+              "images": [
+                "eighteen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Nineteen cows are on the farm.",
+              "sentenceCn": "农场里有十九头奶牛。",
+              "correctImage": "nineteen",
+              "images": [
+                "nineteen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I have twenty pencils.",
+              "sentenceCn": "我有二十支铅笔。",
+              "correctImage": "twenty",
+              "images": [
+                "twenty",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The cow eats seventeen carrots.",
+              "sentenceCn": "奶牛吃了十七根胡萝卜。",
+              "correctImage": "cow",
+              "images": [
+                "cow",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "We see sixteen hens on the farm.",
+              "sentenceCn": "我们在农场看到十六只母鸡。",
+              "correctImage": "hen",
+              "images": [
+                "hen",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "My hobby is drawing sheep.",
+              "sentenceCn": "我的爱好是画绵羊。",
+              "correctImage": "drawing",
+              "images": [
+                "drawing",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The horse likes yellow corn.",
+              "sentenceCn": "马喜欢黄玉米。",
+              "correctImage": "horse",
+              "images": [
+                "horse",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Reading is fun on the farm.",
+              "sentenceCn": "在农场上读书很有趣。",
+              "correctImage": "reading",
+              "images": [
+                "reading",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (社会场所、职业与日常生活)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Places 2 城市设施",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We read books in the library.",
+              "sentenceCn": "我们在图书馆里读书。",
+              "correctImage": "library",
+              "images": [
+                "library",
+                "playground",
+                "computer room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Buy a book in the bookstore.",
+              "sentenceCn": "在书店买书。",
+              "correctImage": "bookstore",
+              "images": [
+                "bookstore",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Send a letter at the post office.",
+              "sentenceCn": "在邮局寄信。",
+              "correctImage": "post office",
+              "images": [
+                "post office",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The doctor works in the hospital.",
+              "sentenceCn": "医生在医院工作。",
+              "correctImage": "hospital",
+              "images": [
+                "hospital",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Watch a cartoon in the cinema.",
+              "sentenceCn": "在电影院看卡通片。",
+              "correctImage": "cinema",
+              "images": [
+                "cinema",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "Jobs 社会职业",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The doctor helps sick people.",
+              "sentenceCn": "医生帮助生病的人。",
+              "correctImage": "doctor",
+              "images": [
+                "doctor",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The nurse works in the clinic.",
+              "sentenceCn": "护士在诊所工作。",
+              "correctImage": "nurse",
+              "images": [
+                "nurse",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Our teacher is very nice.",
+              "sentenceCn": "我们的老师非常好。",
+              "correctImage": "teacher",
+              "images": [
+                "teacher",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The driver drives a school bus.",
+              "sentenceCn": "司机驾驶校车。",
+              "correctImage": "driver",
+              "images": [
+                "driver",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The policeman helps us cross the road.",
+              "sentenceCn": "警察帮我们过马路。",
+              "correctImage": "policeman",
+              "images": [
+                "policeman",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Daily routines 日常作息",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I get up early at six.",
+              "sentenceCn": "我六点早起。",
+              "correctImage": "get up",
+              "images": [
+                "get up",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I go to school at seven.",
+              "sentenceCn": "我七点去上学。",
+              "correctImage": "go to school",
+              "images": [
+                "go to school",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I eat lunch at twelve.",
+              "sentenceCn": "我十二点吃午餐。",
+              "correctImage": "eat lunch",
+              "images": [
+                "eat lunch",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "I go home at four.",
+              "sentenceCn": "我四点钟回家。",
+              "correctImage": "go home",
+              "images": [
+                "go home",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I go to bed at nine.",
+              "sentenceCn": "我九点睡觉。",
+              "correctImage": "go to bed",
+              "images": [
+                "go to bed",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "Food 4 简餐中西餐",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We eat noodles for lunch.",
+              "sentenceCn": "我们午饭吃面条。",
+              "correctImage": "noodles",
+              "images": [
+                "noodles",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Drink some hot tomato soup.",
+              "sentenceCn": "喝一些热西红柿汤。",
+              "correctImage": "soup",
+              "images": [
+                "soup",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I like Chinese dumplings.",
+              "sentenceCn": "我喜欢中国饺子。",
+              "correctImage": "dumplings",
+              "images": [
+                "dumplings",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The fresh vegetable salad is healthy.",
+              "sentenceCn": "新鲜的蔬菜沙拉很健康。",
+              "correctImage": "salad",
+              "images": [
+                "salad",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Make a ham sandwich.",
+              "sentenceCn": "做个火腿三明治。",
+              "correctImage": "sandwich",
+              "images": [
+                "sandwich",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The doctor works in the hospital.",
+              "sentenceCn": "医生在医院工作。",
+              "correctImage": "doctor",
+              "images": [
+                "doctor",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Eat noodles in the kitchen.",
+              "sentenceCn": "在厨房里吃面条。",
+              "correctImage": "noodles",
+              "images": [
+                "noodles",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The driver goes home at six.",
+              "sentenceCn": "司机六点钟回家。",
+              "correctImage": "go home",
+              "images": [
+                "go home",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The policeman eats a sandwich.",
+              "sentenceCn": "警察在吃三明治。",
+              "correctImage": "sandwich",
+              "images": [
+                "sandwich",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Buy salad in the shop.",
+              "sentenceCn": "在商店买沙拉。",
+              "correctImage": "salad",
+              "images": [
+                "salad",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (大自然、季节与户外活动)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "Nature 2 自然景观",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The river flows to the sea.",
+              "sentenceCn": "河流奔向大海。",
+              "correctImage": "river",
+              "images": [
+                "river",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The water in the lake is blue.",
+              "sentenceCn": "湖水是蓝色的。",
+              "correctImage": "lake",
+              "images": [
+                "lake",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Climb the high mountain.",
+              "sentenceCn": "攀登那座高山。",
+              "correctImage": "mountain",
+              "images": [
+                "mountain",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Walk up the small hill.",
+              "sentenceCn": "走上小山丘。",
+              "correctImage": "hill",
+              "images": [
+                "hill",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Many trees are in the forest.",
+              "sentenceCn": "森林里有许多树木。",
+              "correctImage": "forest",
+              "images": [
+                "forest",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "Season 四季循环",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Flowers open in spring.",
+              "sentenceCn": "花朵在春天开放。",
+              "correctImage": "spring",
+              "images": [
+                "spring",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "It is hot in summer.",
+              "sentenceCn": "夏天天气炎热。",
+              "correctImage": "summer",
+              "images": [
+                "summer",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The leaves fall in autumn.",
+              "sentenceCn": "落叶飘零在秋天。",
+              "correctImage": "autumn",
+              "images": [
+                "autumn",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "It snows in winter.",
+              "sentenceCn": "冬天会下雪。",
+              "correctImage": "winter",
+              "images": [
+                "winter",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We have a summer holiday.",
+              "sentenceCn": "我们放暑假了。",
+              "correctImage": "holiday",
+              "images": [
+                "holiday",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Shopping 购物选择",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I want to buy new shoes.",
+              "sentenceCn": "我想买新鞋子。",
+              "correctImage": "shoes",
+              "images": [
+                "shoes",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "These socks are cheap.",
+              "sentenceCn": "这些袜子很便宜。",
+              "correctImage": "socks",
+              "images": [
+                "socks",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I try on the blue dress.",
+              "sentenceCn": "我试穿这件蓝色的连衣裙。",
+              "correctImage": "dress",
+              "images": [
+                "dress",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "This skirt is beautiful.",
+              "sentenceCn": "这条半身裙很漂亮。",
+              "correctImage": "skirt",
+              "images": [
+                "skirt",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I wear long trousers/pants.",
+              "sentenceCn": "我穿长裤。",
+              "correctImage": "pants",
+              "images": [
+                "pants",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Actions 2 户外活动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Fly a kite on the playground.",
+              "sentenceCn": "在操场上放风筝。",
+              "correctImage": "fly a kite",
+              "images": [
+                "fly a kite",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Ride a bike to the park.",
+              "sentenceCn": "骑自行车去公园。",
+              "correctImage": "ride a bike",
+              "images": [
+                "ride a bike",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Grandpa plays cards with friends.",
+              "sentenceCn": "爷爷和朋友们打牌。",
+              "correctImage": "play cards",
+              "images": [
+                "play cards",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Mom cooks dinner in the evening.",
+              "sentenceCn": "妈妈在晚上做晚饭。",
+              "correctImage": "cook dinner",
+              "images": [
+                "cook dinner",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Wash clothes in the bathroom.",
+              "sentenceCn": "在浴室里洗衣服。",
+              "correctImage": "wash clothes",
+              "images": [
+                "wash clothes",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Ride a bike in the forest.",
+              "sentenceCn": "在森林里骑自行车。",
+              "correctImage": "ride a bike",
+              "images": [
+                "ride a bike",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "We swim in the river in summer.",
+              "sentenceCn": "我们在夏天在河里游泳。",
+              "correctImage": "summer",
+              "images": [
+                "summer",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Buy white socks in the shop.",
+              "sentenceCn": "在商店买白色的袜子。",
+              "correctImage": "socks",
+              "images": [
+                "socks",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Climb the mountain in spring.",
+              "sentenceCn": "在春天爬山。",
+              "correctImage": "spring",
+              "images": [
+                "spring",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Fly a kite near the blue lake.",
+              "sentenceCn": "在蓝色的湖边放风筝。",
+              "correctImage": "fly a kite",
+              "images": [
+                "fly a kite",
+                "library",
+                "playground"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

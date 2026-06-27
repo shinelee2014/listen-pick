@@ -1,0 +1,1452 @@
+{
+  "grade": 5,
+  "gradeName": "五年级",
+  "gradeEmoji": "🦋",
+  "imageCount": 4,
+  "levels": [
+    {
+      "levelId": 1,
+      "levelName": "Level 1-25 (日常活动、季节与月份)",
+      "days": [
+        {
+          "day": 1,
+          "dayTitle": "Daily activities 家务与运动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I usually do homework in the study.",
+              "sentenceCn": "我通常在书房做家庭作业。",
+              "correctImage": "do homework",
+              "images": [
+                "do homework",
+                "watch TV",
+                "wash clothes",
+                "clean room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Don't watch TV too long.",
+              "sentenceCn": "不要看电视太久。",
+              "correctImage": "watch TV",
+              "images": [
+                "watch TV",
+                "do homework",
+                "wash clothes",
+                "clean room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I wash clothes on Sundays.",
+              "sentenceCn": "我每星期天洗衣服。",
+              "correctImage": "wash clothes",
+              "images": [
+                "wash clothes",
+                "do homework",
+                "watch TV",
+                "clean room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Please clean your bedroom.",
+              "sentenceCn": "请打扫你的卧室。",
+              "correctImage": "clean room",
+              "images": [
+                "clean room",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "We play sports on the playground.",
+              "sentenceCn": "我们在操场上做体育运动。",
+              "correctImage": "play sports",
+              "images": [
+                "play sports",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "dayTitle": "Seasons 四季之美",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Spring is green and warm.",
+              "sentenceCn": "春天是绿色且温暖的。",
+              "correctImage": "spring",
+              "images": [
+                "spring",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Summer is hot and sunny.",
+              "sentenceCn": "夏天炎热且阳光充足。",
+              "correctImage": "summer",
+              "images": [
+                "summer",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Autumn is gold and cool.",
+              "sentenceCn": "秋天是金色且凉爽的。",
+              "correctImage": "autumn",
+              "images": [
+                "autumn",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Winter is white and cold.",
+              "sentenceCn": "冬天是白色且寒冷的。",
+              "correctImage": "winter",
+              "images": [
+                "winter",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The weather is very sunny.",
+              "sentenceCn": "天气非常晴朗。",
+              "correctImage": "sunny",
+              "images": [
+                "sunny",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "dayTitle": "Months 1-5 月份前半段",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "New Year is in January.",
+              "sentenceCn": "新年在一月份。",
+              "correctImage": "January",
+              "images": [
+                "January",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Spring Festival is often in February.",
+              "sentenceCn": "春节通常在二月份。",
+              "correctImage": "February",
+              "images": [
+                "February",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Tree Planting Day is in March.",
+              "sentenceCn": "植树节在三月份。",
+              "correctImage": "March",
+              "images": [
+                "March",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "April Fools' Day is in April.",
+              "sentenceCn": "愚人节在四月份。",
+              "correctImage": "April",
+              "images": [
+                "April",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Mother's Day is in May.",
+              "sentenceCn": "母亲节在五月份。",
+              "correctImage": "May",
+              "images": [
+                "May",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "dayTitle": "Months 6-10 月份中段",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Children's Day is in June.",
+              "sentenceCn": "儿童节在六月份。",
+              "correctImage": "June",
+              "images": [
+                "June",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Summer holiday begins in July.",
+              "sentenceCn": "暑假在七月份开始。",
+              "correctImage": "July",
+              "images": [
+                "July",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "It is hot in August.",
+              "sentenceCn": "八月份天气很热。",
+              "correctImage": "August",
+              "images": [
+                "August",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Teachers' Day is in September.",
+              "sentenceCn": "教师节在九月份。",
+              "correctImage": "September",
+              "images": [
+                "September",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "National Day is in October.",
+              "sentenceCn": "国庆节在十月份。",
+              "correctImage": "October",
+              "images": [
+                "October",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I clean my room in January.",
+              "sentenceCn": "我坐在一月份打扫房间。",
+              "correctImage": "clean room",
+              "images": [
+                "clean room",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Autumn starts in September.",
+              "sentenceCn": "秋天在九月开始。",
+              "correctImage": "autumn",
+              "images": [
+                "autumn",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "We watch TV in the evening.",
+              "sentenceCn": "我们在晚上看电视。",
+              "correctImage": "watch TV",
+              "images": [
+                "watch TV",
+                "do homework",
+                "wash clothes",
+                "clean room"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Mother's Day is in May.",
+              "sentenceCn": "母亲节在五月。",
+              "correctImage": "May",
+              "images": [
+                "May",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Do homework on Sunday afternoon.",
+              "sentenceCn": "星期天下午做作业。",
+              "correctImage": "do homework",
+              "images": [
+                "do homework",
+                "watch TV",
+                "wash clothes",
+                "clean room"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 2,
+      "levelName": "Level 26-50 (序数词、正在进行动作与代词)",
+      "days": [
+        {
+          "day": 6,
+          "dayTitle": "Months 11-12 & Seasons 续",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Thanksgiving is in November.",
+              "sentenceCn": "感恩节在十一月。",
+              "correctImage": "November",
+              "images": [
+                "November",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Christmas is in December.",
+              "sentenceCn": "圣诞节在十二月。",
+              "correctImage": "December",
+              "images": [
+                "December",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Spring is warm.",
+              "sentenceCn": "春天是温暖的。",
+              "correctImage": "spring",
+              "images": [
+                "spring",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Summer is hot.",
+              "sentenceCn": "夏天是炎热的。",
+              "correctImage": "summer",
+              "images": [
+                "summer",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Autumn is cool.",
+              "sentenceCn": "秋天是凉爽的。",
+              "correctImage": "autumn",
+              "images": [
+                "autumn",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "dayTitle": "Ordinal numbers 序数词",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "My room is on the first floor.",
+              "sentenceCn": "我的房间在一楼。",
+              "correctImage": "first",
+              "images": [
+                "first",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He wins the second prize.",
+              "sentenceCn": "他获得二等奖。",
+              "correctImage": "second",
+              "images": [
+                "second",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Today is the third of May.",
+              "sentenceCn": "今天是五月三号。",
+              "correctImage": "third",
+              "images": [
+                "third",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The fourth book is mine.",
+              "sentenceCn": "第四本书是我的。",
+              "correctImage": "fourth",
+              "images": [
+                "fourth",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "It is the fifth day of the holiday.",
+              "sentenceCn": "这是假期的第五天。",
+              "correctImage": "fifth",
+              "images": [
+                "fifth",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "dayTitle": "Daily actions 正在发生的动作",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Look at the boy climbing the hill.",
+              "sentenceCn": "看那个正在爬山的小男孩。",
+              "correctImage": "climbing",
+              "images": [
+                "climbing",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The dogs are running happily.",
+              "sentenceCn": "那些小狗正在高兴地跑。",
+              "correctImage": "running",
+              "images": [
+                "running",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "A rabbit is jumping in the grass.",
+              "sentenceCn": "一只兔子正在草地上跳。",
+              "correctImage": "jumping",
+              "images": [
+                "jumping",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "They are swimming in the pool.",
+              "sentenceCn": "他们正在游泳池里游泳。",
+              "correctImage": "swimming",
+              "images": [
+                "swimming",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The blue bird is flying high.",
+              "sentenceCn": "蓝色的鸟正在飞得很高。",
+              "correctImage": "flying",
+              "images": [
+                "flying",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "dayTitle": "Pronouns 物主代词",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The blue pen is his.",
+              "sentenceCn": "那支蓝色的笔是他的。",
+              "correctImage": "his",
+              "images": [
+                "his",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "This pink dress is hers.",
+              "sentenceCn": "这条粉红色的连衣裙是她的。",
+              "correctImage": "hers",
+              "images": [
+                "hers",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "That school bag is mine.",
+              "sentenceCn": "那个书包是我的。",
+              "correctImage": "mine",
+              "images": [
+                "mine",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Is this pencil yours?",
+              "sentenceCn": "这支铅笔是你的吗？",
+              "correctImage": "yours",
+              "images": [
+                "yours",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The big garden is ours.",
+              "sentenceCn": "这个大花园是我们的。",
+              "correctImage": "ours",
+              "images": [
+                "ours",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The first book is his.",
+              "sentenceCn": "第一本书是他的。",
+              "correctImage": "first",
+              "images": [
+                "first",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The rabbit is running on the first floor.",
+              "sentenceCn": "兔子正在一楼跑。",
+              "correctImage": "running",
+              "images": [
+                "running",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The fourth bag is mine.",
+              "sentenceCn": "第四个包是我的。",
+              "correctImage": "mine",
+              "images": [
+                "mine",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The baby is climbing on the bed.",
+              "sentenceCn": "宝宝正在床上爬。",
+              "correctImage": "climbing",
+              "images": [
+                "climbing",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Is this red sweater yours?",
+              "sentenceCn": "这件红毛衣是你的吗？",
+              "correctImage": "yours",
+              "images": [
+                "yours",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 3,
+      "levelName": "Level 51-75 (野生动物、日常家务与方位)",
+      "days": [
+        {
+          "day": 11,
+          "dayTitle": "Animals 7 珍稀动物",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The koala is cute and lazy.",
+              "sentenceCn": "考拉既可爱又懒惰。",
+              "correctImage": "koala",
+              "images": [
+                "koala",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "The kangaroo jumps very far.",
+              "sentenceCn": "袋鼠跳得很远。",
+              "correctImage": "kangaroo",
+              "images": [
+                "kangaroo",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The polar bear lives in snow.",
+              "sentenceCn": "北极熊生活在雪地里。",
+              "correctImage": "polar bear",
+              "images": [
+                "polar bear",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The panda is eating green bamboo.",
+              "sentenceCn": "大熊猫正在吃绿竹子。",
+              "correctImage": "panda",
+              "images": [
+                "panda",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The lion runs to catch the sheep.",
+              "sentenceCn": "狮子跑去抓羊。",
+              "correctImage": "lion",
+              "images": [
+                "lion",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "dayTitle": "House chores 日常家务",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I usually make the bed in the morning.",
+              "sentenceCn": "我通常在早上整理床铺。",
+              "correctImage": "make the bed",
+              "images": [
+                "make the bed",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Help dad sweep the floor.",
+              "sentenceCn": "帮爸爸扫地。",
+              "correctImage": "sweep the floor",
+              "images": [
+                "sweep the floor",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I water the flowers in the garden.",
+              "sentenceCn": "我给花园里的花浇水。",
+              "correctImage": "water the flowers",
+              "images": [
+                "water the flowers",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Wash the dishes after dinner.",
+              "sentenceCn": "晚饭后洗碗。",
+              "correctImage": "wash the dishes",
+              "images": [
+                "wash the dishes",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Mom teaches me how to cook.",
+              "sentenceCn": "妈妈教我怎么做饭。",
+              "correctImage": "cook",
+              "images": [
+                "cook",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "dayTitle": "Directions 方位与路线",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Go straight and you will find the library.",
+              "sentenceCn": "直走，你就会找到图书馆。",
+              "correctImage": "go straight",
+              "images": [
+                "go straight",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Turn left at the hospital.",
+              "sentenceCn": "在医院处向左转。",
+              "correctImage": "turn left",
+              "images": [
+                "turn left",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Turn right at the bookstore.",
+              "sentenceCn": "在书店处向右转。",
+              "correctImage": "turn right",
+              "images": [
+                "turn right",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Look carefully when you cross the road.",
+              "sentenceCn": "过马路时要仔细看。",
+              "correctImage": "cross the road",
+              "images": [
+                "cross the road",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The park is next to our school.",
+              "sentenceCn": "公园在我们的学校旁边。",
+              "correctImage": "next to",
+              "images": [
+                "next to",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "dayTitle": "Food tastes 食物口感",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The candy is sweet.",
+              "sentenceCn": "糖果很甜。",
+              "correctImage": "sweet",
+              "images": [
+                "sweet",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "This lemon is very sour.",
+              "sentenceCn": "这个柠檬非常酸。",
+              "correctImage": "sour",
+              "images": [
+                "sour",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I like fresh salad.",
+              "sentenceCn": "我喜欢新鲜沙拉。",
+              "correctImage": "fresh",
+              "images": [
+                "fresh",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Fruit is healthy food.",
+              "sentenceCn": "水果是健康的食物。",
+              "correctImage": "healthy",
+              "images": [
+                "healthy",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The dumplings are delicious.",
+              "sentenceCn": "饺子很好吃。",
+              "correctImage": "delicious",
+              "images": [
+                "delicious",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "dayTitle": "Mix 综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "The panda lives next to the park.",
+              "sentenceCn": "熊猫住在公园旁边。",
+              "correctImage": "next to",
+              "images": [
+                "next to",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Water the flowers in the morning.",
+              "sentenceCn": "在早上浇花。",
+              "correctImage": "water the flowers",
+              "images": [
+                "water the flowers",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Go straight and turn left.",
+              "sentenceCn": "直走然后向左转。",
+              "correctImage": "turn left",
+              "images": [
+                "turn left",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "The sweet dumplings are delicious.",
+              "sentenceCn": "甜饺子很好吃。",
+              "correctImage": "delicious",
+              "images": [
+                "delicious",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Help mom wash the dishes in the kitchen.",
+              "sentenceCn": "在厨房帮妈妈洗碗。",
+              "correctImage": "wash the dishes",
+              "images": [
+                "wash the dishes",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "levelId": 4,
+      "levelName": "Level 76-100 (高频动词、学校用品与运动爱好)",
+      "days": [
+        {
+          "day": 16,
+          "dayTitle": "Verbs 基础动词",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "I drink water every hour.",
+              "sentenceCn": "我每小时喝水。",
+              "correctImage": "drink",
+              "images": [
+                "drink",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "I eat apples for health.",
+              "sentenceCn": "我为了健康吃苹果。",
+              "correctImage": "eat",
+              "images": [
+                "eat",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Write your name on the paper.",
+              "sentenceCn": "在纸上写下你的名字。",
+              "correctImage": "write",
+              "images": [
+                "write",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Draw a green forest.",
+              "sentenceCn": "画一片绿色的森林。",
+              "correctImage": "draw",
+              "images": [
+                "draw",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Speak English loudly in class.",
+              "sentenceCn": "在课堂上大声说英语。",
+              "correctImage": "speak",
+              "images": [
+                "speak",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "dayTitle": "School supplies 学习辅助工具",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Look up words in the dictionary.",
+              "sentenceCn": "在词典中查单词。",
+              "correctImage": "dictionary",
+              "images": [
+                "dictionary",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "Find the city on the map.",
+              "sentenceCn": "在地图上找到这个城市。",
+              "correctImage": "map",
+              "images": [
+                "map",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Put books on the desk.",
+              "sentenceCn": "把书放在书桌上。",
+              "correctImage": "desk",
+              "images": [
+                "desk",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Sit on the school chair.",
+              "sentenceCn": "坐在学校椅子上。",
+              "correctImage": "chair",
+              "images": [
+                "chair",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "My school bag is very heavy.",
+              "sentenceCn": "我的书包非常重。",
+              "correctImage": "bag",
+              "images": [
+                "bag",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "dayTitle": "Sports 更多球类运动",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "We play table tennis after class.",
+              "sentenceCn": "我们课后打乒乓球。",
+              "correctImage": "play table tennis",
+              "images": [
+                "play table tennis",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He plays badminton on Saturday.",
+              "sentenceCn": "他星期六打羽毛球。",
+              "correctImage": "play badminton",
+              "images": [
+                "play badminton",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "The boy loves to play basketball.",
+              "sentenceCn": "那个男孩喜欢打篮球。",
+              "correctImage": "play basketball",
+              "images": [
+                "play basketball",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "We watch a football match.",
+              "sentenceCn": "我们看一场足球比赛。",
+              "correctImage": "play football",
+              "images": [
+                "play football",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "I like to run in the park.",
+              "sentenceCn": "我喜欢在公园里跑步。",
+              "correctImage": "run",
+              "images": [
+                "run",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "dayTitle": "Time of day 时间表达",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Get up at seven o'clock.",
+              "sentenceCn": "七点钟起床。",
+              "correctImage": "get up",
+              "images": [
+                "get up",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "We eat lunch at twelve o'clock.",
+              "sentenceCn": "我们十二点吃午餐。",
+              "correctImage": "eat lunch",
+              "images": [
+                "eat lunch",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "I go to bed at nine o'clock.",
+              "sentenceCn": "我九点睡觉。",
+              "correctImage": "go to bed",
+              "images": [
+                "go to bed",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Drink milk before nine o'clock.",
+              "sentenceCn": "九点钟前喝牛奶。",
+              "correctImage": "milk",
+              "images": [
+                "milk",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "The class ends at four o'clock.",
+              "sentenceCn": "四点钟下课。",
+              "correctImage": "school",
+              "images": [
+                "school",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "dayTitle": "Comprehensive Mix 终极综合",
+          "stages": [
+            {
+              "stageId": 1,
+              "sentence": "Check the word in the dictionary at seven o'clock.",
+              "sentenceCn": "七点钟在词典里查这个词。",
+              "correctImage": "dictionary",
+              "images": [
+                "dictionary",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 2,
+              "sentence": "He plays badminton near the school.",
+              "sentenceCn": "他在学校附近打羽毛球。",
+              "correctImage": "play badminton",
+              "images": [
+                "play badminton",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 3,
+              "sentence": "Look at the map on the desk.",
+              "sentenceCn": "看桌子上的地图。",
+              "correctImage": "map",
+              "images": [
+                "map",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 4,
+              "sentence": "Speak English on the playground.",
+              "sentenceCn": "在操场上说英语。",
+              "correctImage": "speak",
+              "images": [
+                "speak",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            },
+            {
+              "stageId": 5,
+              "sentence": "Drink some fresh juice after running.",
+              "sentenceCn": "跑步后喝一些新鲜果汁。",
+              "correctImage": "juice",
+              "images": [
+                "juice",
+                "do homework",
+                "watch TV",
+                "wash clothes"
+              ],
+              "audioFile": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

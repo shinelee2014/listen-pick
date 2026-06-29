@@ -4,6 +4,11 @@
  */
 
 const App = (() => {
+  // ============ 安全访问控制 ============
+  // 默认访问密码：888888 的 SHA-256 哈希值
+  const ACCESS_PASSWORD_HASH = '92925488b28ab12584ac8fcaa8a27a0f497b2c62940c8f4fbc8ef19ebc87c43e';
+  const AUTH_SESSION_KEY = 'listen_pick_authorized';
+
   // ============ 配置 ============
   const GRADE_CONFIG = {
     1: { name: '一年级', emoji: '🍓', label: 'Grade 1', color: '#E8657A', cssVar: 'g1' },
@@ -38,6 +43,18 @@ const App = (() => {
 
   // ============ 初始化 ============
   function init() {
+    if (sessionStorage.getItem(AUTH_SESSION_KEY) === 'true') {
+      startAppFlow();
+    } else {
+      showView('password');
+      bindPasswordEvents();
+    }
+  }
+
+  function startAppFlow() {
+    const pwdView = document.getElementById('view-password');
+    if (pwdView) pwdView.classList.remove('active');
+
     // 加载设置
     const settings = Storage.getSettings();
     state.showEnglish = settings.showEnglish;
@@ -55,6 +72,68 @@ const App = (() => {
     } else {
       showView('login');
       renderProfiles();
+    }
+  }
+
+  function bindPasswordEvents() {
+    const btn = document.getElementById('app-password-btn');
+    if (btn) btn.onclick = handlePasswordSubmit;
+
+    const input = document.getElementById('app-password-input');
+    if (input) {
+      input.onkeydown = (e) => {
+        if (e.key === 'Enter') {
+          handlePasswordSubmit();
+        }
+      };
+      input.focus();
+    }
+  }
+
+  async function handlePasswordSubmit() {
+    const input = document.getElementById('app-password-input');
+    const card = document.getElementById('password-gate-card');
+    
+    if (!input) return;
+    
+    const pwd = input.value.trim();
+    if (!pwd) {
+      showPasswordError('请输入访问密码！');
+      return;
+    }
+
+    const hash = await calcSha256(pwd);
+    if (hash === ACCESS_PASSWORD_HASH) {
+      sessionStorage.setItem(AUTH_SESSION_KEY, 'true');
+      startAppFlow();
+    } else {
+      showPasswordError('密码错误哦，请重新输入！');
+      if (card) {
+        card.classList.add('shake');
+        setTimeout(() => card.classList.remove('shake'), 500);
+      }
+      input.value = '';
+      input.focus();
+    }
+  }
+
+  function showPasswordError(msg) {
+    const tip = document.getElementById('password-error-tip');
+    if (tip) {
+      tip.textContent = msg;
+      tip.style.opacity = '1';
+    }
+  }
+
+  async function calcSha256(message) {
+    try {
+      const msgBuffer = new TextEncoder().encode(message);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    } catch (e) {
+      console.warn('SHA-256 calc failed, falling back to plaintext comparison');
+      return message;
     }
   }
 

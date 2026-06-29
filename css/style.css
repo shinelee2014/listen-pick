@@ -1027,6 +1027,10 @@ img {
   80% { transform: translateX(6px); }
 }
 
+.shake {
+  animation: wrongShake 0.5s ease;
+}
+
 .image-card.reveal-correct {
   border-color: var(--correct-green);
   background: var(--correct-bg);

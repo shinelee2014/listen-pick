@@ -14,9 +14,25 @@
 <body>
 
   <!-- ============================================
+       VIEW: PASSWORD PROTECTION GATE
+       ============================================ -->
+  <div id="view-password" class="view active">
+    <div class="login-container">
+      <div class="home-logo">🎧</div>
+      <h2 class="login-title" style="margin-top: 16px;">请输入访问密码</h2>
+      <p class="login-subtitle">本应用已加密，请输入密码以继续学习</p>
+      <div class="modal-card" id="password-gate-card" style="margin: 0 auto; box-shadow: var(--shadow-md);">
+        <input type="password" id="app-password-input" placeholder="请输入密码" style="margin-bottom: 16px;">
+        <button id="app-password-btn" class="modal-btn primary" style="width: 100%;">确认进入</button>
+        <p id="password-error-tip" style="color: var(--wrong-red); margin-top: 12px; font-weight: 800; font-size: 14px; min-height: 20px; opacity: 0; transition: opacity 0.2s;"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================
        VIEW 0: PROFILE SELECT (LOGIN)
        ============================================ -->
-  <div id="view-login" class="view active">
+  <div id="view-login" class="view">
     <div class="login-container">
       <h1 class="login-title">👋 欢迎回来！</h1>
       <p class="login-subtitle">今天是谁在学习英语呢？</p>
